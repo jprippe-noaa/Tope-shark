@@ -1,0 +1,11 @@
+Year,Location,Region,Avg_hrs_fished_per_trip,Avg_fms_net,Total_fm-hrs_fished,Total_num_caught,Avg_num_per_trip,Total_num_trips,Catch_per_1000fms_net_20hrs
+1942,Eureka,Northern,41.9,1061.4,1826700,5058,153.3,33,55.4
+1943,Eureka,Northern,104.4,1513.9,6597705,5845,146.1,40,17.7
+1944,Eureka,Northern,124.2,1325.5,3901430,278,13.2,21,1.4
+1945,Eureka,Northern,116.1,1429.6,6326000,2437,67.7,36,7.7
+1942,Central California,Central,85.1,775.6,658820,361,40.1,9,11
+1943,Central California,Central,58.3,1970,626850,259,51.8,5,8.3
+1942,Santa Barbara,Southern,27,924.1,415888,351,23.4,15,16.9
+1943,Santa Barbara,Southern,48.4,808.2,2014545,1309,32.7,40,13
+1942,Santa Catalina Island,Southern,87.6,507.4,7765690,3653,19.8,184,9
+1943,Santa Catalina Island,Southern,119.8,576.8,6956872,1580,16,99,4.5

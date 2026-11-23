@@ -1,0 +1,112 @@
+year,gear,sector,state,obs_tgt_mt,n_obs_ves,n_obs_trips,n_obs_hauls,n_hauls_byc,pct_hauls_byc,obs_byc_mt
+2011,Bottom/Midwater Trawl,Catch Shares,CA,4570.01,23,414,2280,1,0.04,0.014
+2011,Bottom/Midwater Trawl,Catch Shares,OR,10550.368,47,617,5958,3,0.05,0.014
+2011,Bottom/Midwater Trawl,Catch Shares,WA,1832.628,9,81,938,0,0,0
+2011,Hook & Line,Catch Shares,CA,167.907,6,71,213,0,0,0
+2011,Hook & Line,Catch Shares,OR,98.973,5,14,267,0,0,0
+2011,Hook & Line,Catch Shares,WA,67.137,2,7,144,1,0.69,0.001
+2011,Pot,Catch Shares,CA,393.696,11,148,739,0,0,0
+2011,Pot,Catch Shares,OR,221.599,6,47,477,0,0,0
+2011,Pot,Catch Shares,WA,198.511,3,32,319,0,0,0
+2012,Bottom/Midwater Trawl,Catch Shares,CA,4453.246,24,403,2492,2,0.08,0.018
+2012,Bottom/Midwater Trawl,Catch Shares,OR,10423.195,45,598,5591,3,0.05,0.081
+2012,Bottom/Midwater Trawl,Catch Shares,WA,2223.369,5,79,896,2,0.22,0.206
+2012,Hook & Line,Catch Shares,CA,3.153,2,10,15,0,0,0
+2012,Hook & Line,Catch Shares,OR,123.616,4,12,277,0,0,0
+2012,Hook & Line,Catch Shares,WA,112.205,2,10,209,0,0,0
+2012,Pot,Catch Shares,CA,270.189,13,167,813,0,0,0
+2012,Pot,Catch Shares,OR,357.523,7,72,618,0,0,0
+2012,Pot,Catch Shares,WA,111.332,2,19,273,0,0,0
+2013,Bottom/Midwater Trawl,Catch Shares,CA,5058.992,24,454,2763,0,0,0
+2013,Bottom/Midwater Trawl,Catch Shares,OR,12313.207,43,678,6411,1,0.02,0.102
+2013,Bottom/Midwater Trawl,Catch Shares,WA,1516.711,6,63,897,0,0,0
+2013,Hook & Line,Catch Shares,CA,23.103,6,24,86,0,0,0
+2013,Hook & Line,Catch Shares,OR,32.594,2,3,64,0,0,0
+2013,Hook & Line,Catch Shares,WA,23.751,1,2,65,0,0,0
+2013,Pot,Catch Shares,CA,108.086,6,41,411,0,0,0
+2013,Pot,Catch Shares,OR,285.871,6,45,536,0,0,0
+2013,Pot,Catch Shares,WA,73.54,1,7,133,0,0,0
+2014,Bottom/Midwater Trawl,Catch Shares,CA,4889.411,23,431,2837,16,0.56,0.52
+2014,Bottom/Midwater Trawl,Catch Shares,OR,10846.767,45,578,5170,29,0.56,0.421
+2014,Bottom/Midwater Trawl,Catch Shares,WA,868.585,4,39,439,1,0.23,0.096
+2014,Hook & Line,Catch Shares,CA,21.208,5,23,93,0,0,0
+2014,Hook & Line,Catch Shares,WA,63.98,3,8,126,0,0,0
+2014,Pot,Catch Shares,CA,328.387,8,52,628,0,0,0
+2014,Pot,Catch Shares,OR,229.284,5,42,440,0,0,0
+2014,Pot,Catch Shares,WA,120.341,3,19,216,0,0,0
+2015,Bottom/Midwater Trawl,Catch Shares,CA,4139.693,19,319,2158,3,0.14,0.06
+2015,Bottom/Midwater Trawl,Catch Shares,OR,11015.846,40,560,5108,20,0.39,1.257
+2015,Bottom/Midwater Trawl,Catch Shares,WA,434.758,3,16,200,0,0,0
+2015,Hook & Line,Catch Shares,CA,9.876,2,4,37,1,2.7,0.054
+2015,Hook & Line,Catch Shares,OR,8.898,1,4,8,0,0,0
+2015,Hook & Line,Catch Shares,WA,114.603,2,8,135,0,0,0
+2015,Pot,Catch Shares,CA,76.925,3,18,220,0,0,0
+2015,Pot,Catch Shares,OR,324.88,6,39,355,0,0,0
+2016,Bottom/Midwater Trawl,Catch Shares,CA,2372.929,14,191,1234,3,0.24,0.094
+2016,Bottom/Midwater Trawl,Catch Shares,OR,12081.256,38,582,5209,3,0.06,0.1
+2016,Bottom/Midwater Trawl,Catch Shares,WA,446.672,4,19,155,0,0,0
+2016,Hook & Line,Catch Shares,CA,35.661,2,10,102,0,0,0
+2016,Hook & Line,Catch Shares,OR,45.973,2,8,63,0,0,0
+2016,Hook & Line,Catch Shares,WA,95.592,2,12,157,0,0,0
+2016,Pot,Catch Shares,CA,8.982,1,4,73,0,0,0
+2016,Pot,Catch Shares,OR,375.876,7,57,507,0,0,0
+2017,Bottom/Midwater Trawl,Catch Shares,CA,3151.919,14,166,967,0,0,0
+2017,Bottom/Midwater Trawl,Catch Shares,OR,12114.023,40,635,5138,3,0.06,0.182
+2017,Bottom/Midwater Trawl,Catch Shares,WA,830.981,5,28,283,0,0,0
+2017,Hook & Line,Catch Shares,CA,0.027,1,1,1,0,0,0
+2017,Hook & Line,Catch Shares,OR,8.415,1,4,8,0,0,0
+2017,Hook & Line,Catch Shares,WA,104.447,2,8,136,0,0,0
+2017,Pot,Catch Shares,CA,23.319,3,7,87,0,0,0
+2017,Pot,Catch Shares,OR,340.031,4,35,475,0,0,0
+2017,Pot,Catch Shares,WA,2.068,1,1,10,0,0,0
+2018,Bottom/Midwater Trawl,Catch Shares,CA,2206.232,11,134,812,1,0.12,0.025
+2018,Bottom/Midwater Trawl,Catch Shares,OR,9735.974,36,527,4290,7,0.16,0.121
+2018,Bottom/Midwater Trawl,Catch Shares,WA,747.174,5,29,261,0,0,0
+2018,Hook & Line,Catch Shares,OR,80.793,3,5,55,0,0,0
+2018,Hook & Line,Catch Shares,WA,71.518,2,5,80,0,0,0
+2018,Pot,Catch Shares,OR,292.603,6,23,309,0,0,0
+2019,Bottom/Midwater Trawl,Catch Shares,CA,2178.277,8,145,955,6,0.63,0.187
+2019,Bottom/Midwater Trawl,Catch Shares,OR,9651.766,35,469,3873,8,0.21,0.258
+2019,Bottom/Midwater Trawl,Catch Shares,WA,838.419,4,29,186,0,0,0
+2019,Hook & Line,Catch Shares,OR,8.421,1,1,14,0,0,0
+2019,Hook & Line,Catch Shares,WA,120.551,2,9,127,0,0,0
+2019,Pot,Catch Shares,OR,367.839,6,34,488,0,0,0
+2020,Bottom/Midwater Trawl,Catch Shares,CA,2231.331,8,136,768,12,1.56,0.714
+2020,Bottom/Midwater Trawl,Catch Shares,OR,7144.729,31,369,2788,3,0.11,0.095
+2020,Bottom/Midwater Trawl,Catch Shares,WA,136.958,2,5,41,0,0,0
+2020,Pot,Catch Shares,CA,20.212,1,5,7,0,0,0
+2020,Pot,Catch Shares,OR,78.534,1,8,215,0,0,0
+2021,Bottom/Midwater Trawl,Catch Shares,CA,2818.574,10,188,996,19,1.91,0.799
+2021,Bottom/Midwater Trawl,Catch Shares,OR,7557.775,27,352,2723,3,0.11,0.12
+2021,Bottom/Midwater Trawl,Catch Shares,WA,494.327,3,19,154,0,0,0
+2021,Pot,Catch Shares,OR,57.149,2,5,67,0,0,0
+2015,Midwater Trawl,Midwater Hake,OR,8382.359,4,105,233,0,0,0
+2015,Midwater Trawl,Midwater Hake,WA,3079.073,1,21,56,0,0,0
+2016,Midwater Trawl,Midwater Hake,OR,7686.809,4,81,183,0,0,0
+2016,Midwater Trawl,Midwater Hake,WA,1283.162,1,16,24,0,0,0
+2017,Midwater Trawl,Midwater Hake,OR,9155.933,4,112,197,0,0,0
+2017,Midwater Trawl,Midwater Hake,WA,1835.337,1,24,45,0,0,0
+2018,Midwater Trawl,Midwater Hake,OR,9667.42,4,106,178,0,0,0
+2018,Midwater Trawl,Midwater Hake,WA,78.54,1,1,2,0,0,0
+2019,Midwater Trawl,Midwater Hake,OR,8779.33,2,98,145,0,0,0
+2020,Midwater Trawl,Midwater Hake,OR,3344.589,1,28,56,0,0,0
+2021,Midwater Trawl,Midwater Hake,OR,3882.264,1,30,53,1,1.89,0.02
+2015,Midwater Trawl,Midwater Rockfish,OR,935.299,6,40,134,1,0.75,0.008
+2015,Midwater Trawl,Midwater Rockfish,WA,33.197,2,3,13,0,0,0
+2016,Midwater Trawl,Midwater Rockfish,OR,375.346,4,16,49,0,0,0
+2017,Midwater Trawl,Midwater Rockfish,OR,4297.953,11,133,279,0,0,0
+2018,Midwater Trawl,Midwater Rockfish,OR,5920.779,10,175,339,0,0,0
+2018,Midwater Trawl,Midwater Rockfish,WA,527.864,5,17,44,0,0,0
+2019,Midwater Trawl,Midwater Rockfish,OR,4691.278,11,161,331,0,0,0
+2019,Midwater Trawl,Midwater Rockfish,WA,620.087,3,18,31,0,0,0
+2020,Midwater Trawl,Midwater Rockfish,OR,2458.614,11,89,167,0,0,0
+2021,Midwater Trawl,Midwater Rockfish,CA,84.699,1,9,14,0,0,0
+2021,Midwater Trawl,Midwater Rockfish,OR,3893.143,6,114,195,0,0,0
+2011,Midwater Trawl,Shoreside Hake,OR,67657.699,23,746,1345,1,0.07,0.029
+2011,Midwater Trawl,Shoreside Hake,WA,22591.112,8,169,372,0,0,0
+2012,Midwater Trawl,Shoreside Hake,OR,48451.158,20,569,1189,2,0.17,0.113
+2012,Midwater Trawl,Shoreside Hake,WA,16836.838,9,152,411,1,0.24,0.013
+2013,Midwater Trawl,Shoreside Hake,OR,74907.658,20,785,1343,1,0.07,0.026
+2013,Midwater Trawl,Shoreside Hake,WA,21960.137,7,157,391,0,0,0
+2014,Midwater Trawl,Shoreside Hake,OR,76137.363,21,793,1369,1,0.07,0.018
+2014,Midwater Trawl,Shoreside Hake,WA,21787.858,10,166,354,5,1.41,0.1

@@ -1,0 +1,552 @@
+year,gear,sector,state,obs_byc_mt,obs_tgt_mt,fleet_total_tgt_mt,pct_cvg,n_obs_ves,n_obs_trips,n_obs_hauls,n_hauls_byc,pct_hauls_byc,byc_ratio,est_byc,est_byc_lower,est_byc_upper
+2015,Bottom/Midwater Trawl,Catch Shares EM,CA,0,115.103,377.576,30.48,3,8,49,0,0,0,0,NA,NA
+2015,Bottom/Midwater Trawl,Catch Shares EM,OR,0,19.576,26.745,73.2,1,1,8,0,0,0,0,NA,NA
+2015,Pot,Catch Shares EM,CA,0,42.98,154.409,27.84,4,7,88,0,0,0,0,NA,NA
+2015,Pot,Catch Shares EM,OR,0,59.385,184.974,32.1,3,11,96,0,0,0,0,NA,NA
+2016,Bottom/Midwater Trawl,Catch Shares EM,CA,0,421.095,1530.226,27.52,5,25,156,0,0,0,0,NA,NA
+2016,Bottom/Midwater Trawl,Catch Shares EM,OR,0,66.074,225.664,29.28,2,4,26,0,0,0,0,NA,NA
+2016,Pot,Catch Shares EM,CA,0,60.836,173.098,35.15,4,7,109,0,0,0,0,NA,NA
+2016,Pot,Catch Shares EM,OR,0,75.612,256.905,29.43,3,11,109,0,0,0,0,NA,NA
+2016,Pot,Catch Shares EM,WA,0,15.507,15.507,100,1,1,31,0,0,0,0,NA,NA
+2017,Bottom/Midwater Trawl,Catch Shares EM,CA,0,425.78,2479.213,17.17,7,23,140,0,0,0,0,NA,NA
+2017,Bottom/Midwater Trawl,Catch Shares EM,OR,0,43.497,281.838,15.43,1,2,12,0,0,0,0,NA,NA
+2017,Pot,Catch Shares EM,CA,0,77.6,214.317,36.21,5,8,107,0,0,0,0,NA,NA
+2017,Pot,Catch Shares EM,OR,0,70.352,209.499,33.58,2,10,83,0,0,0,0,NA,NA
+2017,Pot,Catch Shares EM,WA,0,36.165,69.898,51.74,2,4,80,0,0,0,0,NA,NA
+2018,Bottom/Midwater Trawl,Catch Shares EM,CA,0.577,602.091,1957.767,30.75,8,49,284,6,2.11,9.6e-4,1.877,0.577,4.286
+2018,Bottom/Midwater Trawl,Catch Shares EM,OR,0,88.612,327.572,27.05,1,4,25,0,0,0,0,NA,NA
+2018,Pot,Catch Shares EM,CA,0,44.975,139.343,32.28,2,7,97,0,0,0,0,NA,NA
+2018,Pot,Catch Shares EM,OR,0,88.611,221.926,39.93,2,14,168,0,0,0,0,NA,NA
+2018,Pot,Catch Shares EM,WA,0,30.636,53.493,57.27,1,3,53,0,0,0,0,NA,NA
+2019,Bottom/Midwater Trawl,Catch Shares EM,CA,0.097,528.651,2004.001,26.38,7,48,258,3,1.16,1.8e-4,0.369,0.097,0.882
+2019,Bottom/Midwater Trawl,Catch Shares EM,OR,0,54.183,339.836,15.94,2,3,20,0,0,0,0,NA,NA
+2019,Pot,Catch Shares EM,CA,0,37.776,149.493,25.27,2,17,43,0,0,0,0,NA,NA
+2019,Pot,Catch Shares EM,OR,0,63.598,276.88,22.97,3,10,106,0,0,0,0,NA,NA
+2019,Pot,Catch Shares EM,WA,0,24.247,64.749,37.45,1,3,45,0,0,0,0,NA,NA
+2020,Bottom/Midwater Trawl,Catch Shares EM,CA,0.389,147.075,1976.082,7.44,5,10,60,8,13.33,0.00264,5.226,1.085,9.368
+2020,Bottom/Midwater Trawl,Catch Shares EM,OR,0,12.93,90.781,14.24,1,1,6,0,0,0,0,NA,NA
+2020,Pot,Catch Shares EM,CA,0,5.147,185.992,2.77,2,2,22,0,0,0,0,NA,NA
+2020,Pot,Catch Shares EM,OR,NA,NA,383.381,0,0,0,0,NA,NA,NA,NA,NA,NA
+2020,Pot,Catch Shares EM,WA,NA,NA,52.778,0,0,0,0,NA,NA,NA,NA,NA,NA
+2021,Bottom/Midwater Trawl,Catch Shares EM,CA,0.449,163.606,1297.012,12.61,5,22,107,8,7.48,0.00274,3.56,0.913,6.207
+2021,Bottom/Midwater Trawl,Catch Shares EM,OR,0,0,215.487,0,1,1,1,0,0,NA,NA,NA,NA
+2021,Pot,Catch Shares EM,CA,0,38.145,192.508,19.81,2,11,62,0,0,0,0,NA,NA
+2021,Pot,Catch Shares EM,OR,0,143.426,360.446,39.79,2,9,127,0,0,0,0,NA,NA
+2021,Pot,Catch Shares EM,WA,NA,NA,69.192,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Bottom Trawl,LE CA Halibut,CA,0,3.588,108.491,3.31,7,19,52,0,0,0,0,NA,NA
+2003,Bottom Trawl,LE CA Halibut,CA,0.076,19.093,105.734,18.06,12,73,207,5,2.42,0.00401,0.424,0.076,0.836
+2004,Bottom Trawl,LE CA Halibut,CA,0.051,31.488,136.533,23.06,8,46,171,5,2.92,0.00161,0.22,0.051,0.469
+2005,Bottom Trawl,LE CA Halibut,CA,0.389,30.514,188.876,16.16,10,74,235,9,3.83,0.01276,2.41,0.666,4.155
+2006,Bottom Trawl,LE CA Halibut,CA,0.049,14.286,119.548,11.95,9,78,224,2,0.89,0.00342,0.408,0.049,1.038
+2007,Bottom Trawl,LE CA Halibut,CA,0.022,5.447,18.597,29.29,5,40,81,1,1.23,0.00398,0.074,0.022,0.219
+2008,Bottom Trawl,LE CA Halibut,CA,0.014,9.637,36.394,26.48,6,40,118,2,1.69,0.00141,0.051,0.014,0.131
+2009,Bottom Trawl,LE CA Halibut,CA,0,2.898,47.202,6.14,3,12,29,0,0,0,0,NA,NA
+2010,Bottom Trawl,LE CA Halibut,CA,0,6.396,54.086,11.83,2,9,41,0,0,0,0,NA,NA
+2002,Hook & Line,LE Fixed Gear DTL,CA,0,3.028,381.382,0.79,4,11,22,0,0,0,0,NA,NA
+2002,Hook & Line,LE Fixed Gear DTL,OR,NA,NA,6.507,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,226.86,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Pot,LE Fixed Gear DTL,CA,NA,NA,2.315,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Pot,LE Fixed Gear DTL,OR,NA,NA,1.676,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Hook & Line,LE Fixed Gear DTL,CA,0.017,31.17,447.627,6.96,16,127,211,1,0.47,5.5e-4,0.247,0.017,0.73
+2003,Hook & Line,LE Fixed Gear DTL,OR,NA,NA,12.606,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Hook & Line,LE Fixed Gear DTL,WA,0,0.903,81.237,1.11,1,3,8,0,0,0,0,NA,NA
+2003,Pot,LE Fixed Gear DTL,CA,NA,NA,5.198,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Pot,LE Fixed Gear DTL,OR,NA,NA,1.417,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Hook & Line,LE Fixed Gear DTL,CA,0,15.829,348.776,4.54,14,62,130,0,0,0,0,NA,NA
+2004,Hook & Line,LE Fixed Gear DTL,OR,NA,NA,9.864,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,39.045,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Pot,LE Fixed Gear DTL,CA,NA,NA,3.138,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Pot,LE Fixed Gear DTL,OR,NA,NA,0.582,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Pot,LE Fixed Gear DTL,WA,NA,NA,0.179,0,0,0,0,NA,NA,NA,NA,NA,NA
+2005,Hook & Line,LE Fixed Gear DTL,CA,0,9.297,375.671,2.47,11,35,60,0,0,0,0,NA,NA
+2005,Hook & Line,LE Fixed Gear DTL,OR,NA,NA,29.627,0,0,0,0,NA,NA,NA,NA,NA,NA
+2005,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,132.929,0,0,0,0,NA,NA,NA,NA,NA,NA
+2005,Pot,LE Fixed Gear DTL,CA,NA,NA,1.579,0,0,0,0,NA,NA,NA,NA,NA,NA
+2005,Pot,LE Fixed Gear DTL,OR,NA,NA,1.364,0,0,0,0,NA,NA,NA,NA,NA,NA
+2005,Pot,LE Fixed Gear DTL,WA,NA,NA,1.151,0,0,0,0,NA,NA,NA,NA,NA,NA
+2006,Hook & Line,LE Fixed Gear DTL,CA,0,23.512,380.795,6.17,21,121,201,0,0,0,0,NA,NA
+2006,Hook & Line,LE Fixed Gear DTL,OR,NA,NA,21.072,0,0,0,0,NA,NA,NA,NA,NA,NA
+2006,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,64.977,0,0,0,0,NA,NA,NA,NA,NA,NA
+2006,Pot,LE Fixed Gear DTL,CA,NA,NA,0.426,0,0,0,0,NA,NA,NA,NA,NA,NA
+2007,Hook & Line,LE Fixed Gear DTL,CA,0,35.737,379.982,9.41,35,154,300,0,0,0,0,NA,NA
+2007,Hook & Line,LE Fixed Gear DTL,OR,0,1.83,43.221,4.23,1,4,4,0,0,0,0,NA,NA
+2007,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,89.665,0,0,0,0,NA,NA,NA,NA,NA,NA
+2007,Pot,LE Fixed Gear DTL,CA,NA,NA,2.365,0,0,0,0,NA,NA,NA,NA,NA,NA
+2007,Pot,LE Fixed Gear DTL,OR,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+2008,Hook & Line,LE Fixed Gear DTL,CA,0,30.16,462.639,6.52,31,118,213,0,0,0,0,NA,NA
+2008,Hook & Line,LE Fixed Gear DTL,OR,0,1.5,77.853,1.93,1,4,8,0,0,0,0,NA,NA
+2008,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,100.541,0,0,0,0,NA,NA,NA,NA,NA,NA
+2008,Pot,LE Fixed Gear DTL,CA,NA,NA,1.165,0,0,0,0,NA,NA,NA,NA,NA,NA
+2008,Pot,LE Fixed Gear DTL,OR,NA,NA,2.082,0,0,0,0,NA,NA,NA,NA,NA,NA
+2009,Hook & Line,LE Fixed Gear DTL,CA,0,29.347,572.667,5.12,32,134,268,0,0,0,0,NA,NA
+2009,Hook & Line,LE Fixed Gear DTL,OR,0,0.973,129.676,0.75,2,4,5,0,0,0,0,NA,NA
+2009,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,42.587,0,0,0,0,NA,NA,NA,NA,NA,NA
+2009,Pot,LE Fixed Gear DTL,CA,NA,NA,4.894,0,0,0,0,NA,NA,NA,NA,NA,NA
+2009,Pot,LE Fixed Gear DTL,OR,NA,NA,3.337,0,0,0,0,NA,NA,NA,NA,NA,NA
+2010,Hook & Line,LE Fixed Gear DTL,CA,0.012,49.999,681.734,7.33,35,210,453,1,0.22,2.4e-4,0.164,0.012,0.485
+2010,Hook & Line,LE Fixed Gear DTL,OR,0,7.795,260.42,2.99,3,16,19,0,0,0,0,NA,NA
+2010,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,59.173,0,0,0,0,NA,NA,NA,NA,NA,NA
+2010,Pot,LE Fixed Gear DTL,CA,NA,NA,0.261,0,0,0,0,NA,NA,NA,NA,NA,NA
+2010,Pot,LE Fixed Gear DTL,OR,NA,NA,11.836,0,0,0,0,NA,NA,NA,NA,NA,NA
+2010,Pot,LE Fixed Gear DTL,WA,NA,NA,2.779,0,0,0,0,NA,NA,NA,NA,NA,NA
+2011,Hook & Line,LE Fixed Gear DTL,CA,0,61.74,1001.099,6.17,31,175,348,0,0,0,0,NA,NA
+2011,Hook & Line,LE Fixed Gear DTL,OR,0,9.588,195.017,4.92,5,15,21,0,0,0,0,NA,NA
+2011,Hook & Line,LE Fixed Gear DTL,WA,0,12.88,47.155,27.31,2,11,57,0,0,0,0,NA,NA
+2011,Pot,LE Fixed Gear DTL,CA,NA,NA,19.761,0,0,0,0,NA,NA,NA,NA,NA,NA
+2011,Pot,LE Fixed Gear DTL,OR,NA,NA,8.013,0,0,0,0,NA,NA,NA,NA,NA,NA
+2012,Hook & Line,LE Fixed Gear DTL,CA,0,21.925,678.596,3.23,21,111,232,0,0,0,0,NA,NA
+2012,Hook & Line,LE Fixed Gear DTL,OR,0,5.951,94.489,6.3,5,17,20,0,0,0,0,NA,NA
+2012,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,21.375,0,0,0,0,NA,NA,NA,NA,NA,NA
+2012,Pot,LE Fixed Gear DTL,CA,NA,NA,7.76,0,0,0,0,NA,NA,NA,NA,NA,NA
+2012,Pot,LE Fixed Gear DTL,OR,NA,NA,0.871,0,0,0,0,NA,NA,NA,NA,NA,NA
+2013,Hook & Line,LE Fixed Gear DTL,CA,0,32.121,699.29,4.59,22,124,248,0,0,0,0,NA,NA
+2013,Hook & Line,LE Fixed Gear DTL,OR,NA,NA,47.052,0,0,0,0,NA,NA,NA,NA,NA,NA
+2013,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,58.998,0,0,0,0,NA,NA,NA,NA,NA,NA
+2013,Pot,LE Fixed Gear DTL,CA,NA,NA,11.065,0,0,0,0,NA,NA,NA,NA,NA,NA
+2013,Pot,LE Fixed Gear DTL,OR,NA,NA,4.397,0,0,0,0,NA,NA,NA,NA,NA,NA
+2014,Hook & Line,LE Fixed Gear DTL,CA,0,23.799,659.866,3.61,18,77,154,0,0,0,0,NA,NA
+2014,Hook & Line,LE Fixed Gear DTL,OR,NA,NA,24.316,0,0,0,0,NA,NA,NA,NA,NA,NA
+2014,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,12.8,0,0,0,0,NA,NA,NA,NA,NA,NA
+2014,Pot,LE Fixed Gear DTL,CA,NA,NA,2.432,0,0,0,0,NA,NA,NA,NA,NA,NA
+2014,Pot,LE Fixed Gear DTL,OR,NA,NA,1.627,0,0,0,0,NA,NA,NA,NA,NA,NA
+2015,Hook & Line,LE Fixed Gear DTL,CA,0.703,37.352,632.853,5.9,20,62,141,1,0.71,0.01882,11.912,0.703,35.26
+2015,Hook & Line,LE Fixed Gear DTL,OR,0,0.95,65.634,1.45,1,3,3,0,0,0,0,NA,NA
+2015,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,26.224,0,0,0,0,NA,NA,NA,NA,NA,NA
+2015,Pot,LE Fixed Gear DTL,CA,NA,NA,2.986,0,0,0,0,NA,NA,NA,NA,NA,NA
+2015,Pot,LE Fixed Gear DTL,OR,NA,NA,0.885,0,0,0,0,NA,NA,NA,NA,NA,NA
+2016,Hook & Line,LE Fixed Gear DTL,CA,0.181,21.556,671.943,3.21,14,38,64,1,1.56,0.00842,5.656,0.181,16.742
+2016,Hook & Line,LE Fixed Gear DTL,OR,0,1.833,55.942,3.28,2,3,5,0,0,0,0,NA,NA
+2016,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,10.829,0,0,0,0,NA,NA,NA,NA,NA,NA
+2016,Pot,LE Fixed Gear DTL,CA,NA,NA,12.026,0,0,0,0,NA,NA,NA,NA,NA,NA
+2016,Pot,LE Fixed Gear DTL,OR,NA,NA,0.711,0,0,0,0,NA,NA,NA,NA,NA,NA
+2017,Hook & Line,LE Fixed Gear DTL,CA,0,13.653,711.115,1.92,11,31,67,1,1.49,2e-5,0.018,0,0.052
+2017,Hook & Line,LE Fixed Gear DTL,OR,0,2.059,69.485,2.96,1,3,4,0,0,0,0,NA,NA
+2017,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,20.652,0,0,0,0,NA,NA,NA,NA,NA,NA
+2017,Pot,LE Fixed Gear DTL,CA,NA,NA,12.685,0,0,0,0,NA,NA,NA,NA,NA,NA
+2017,Pot,LE Fixed Gear DTL,OR,NA,NA,3.287,0,0,0,0,NA,NA,NA,NA,NA,NA
+2017,Pot,LE Fixed Gear DTL,WA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+2018,Hook & Line,LE Fixed Gear DTL,CA,0,14.011,671.414,2.09,12,27,68,0,0,0,0,NA,NA
+2018,Hook & Line,LE Fixed Gear DTL,OR,NA,NA,54.79,0,0,0,0,NA,NA,NA,NA,NA,NA
+2018,Hook & Line,LE Fixed Gear DTL,WA,0,6.73,23.577,28.54,1,2,17,0,0,0,0,NA,NA
+2018,Pot,LE Fixed Gear DTL,CA,NA,NA,6.697,0,0,0,0,NA,NA,NA,NA,NA,NA
+2018,Pot,LE Fixed Gear DTL,OR,NA,NA,3.852,0,0,0,0,NA,NA,NA,NA,NA,NA
+2018,Pot,LE Fixed Gear DTL,WA,NA,NA,0.506,0,0,0,0,NA,NA,NA,NA,NA,NA
+2019,Hook & Line,LE Fixed Gear DTL,CA,0,15.334,616.197,2.49,13,36,80,0,0,0,0,NA,NA
+2019,Hook & Line,LE Fixed Gear DTL,OR,NA,NA,44.418,0,0,0,0,NA,NA,NA,NA,NA,NA
+2019,Hook & Line,LE Fixed Gear DTL,WA,0,2.527,13.637,18.53,1,1,7,0,0,0,0,NA,NA
+2019,Pot,LE Fixed Gear DTL,CA,NA,NA,9.165,0,0,0,0,NA,NA,NA,NA,NA,NA
+2019,Pot,LE Fixed Gear DTL,OR,NA,NA,3.728,0,0,0,0,NA,NA,NA,NA,NA,NA
+2020,Hook & Line,LE Fixed Gear DTL,CA,0,7.669,513.552,1.49,8,19,44,0,0,0,0,NA,NA
+2020,Hook & Line,LE Fixed Gear DTL,OR,NA,NA,12.437,0,0,0,0,NA,NA,NA,NA,NA,NA
+2020,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,6.116,0,0,0,0,NA,NA,NA,NA,NA,NA
+2020,Pot,LE Fixed Gear DTL,CA,NA,NA,11.63,0,0,0,0,NA,NA,NA,NA,NA,NA
+2020,Pot,LE Fixed Gear DTL,OR,NA,NA,0.062,0,0,0,0,NA,NA,NA,NA,NA,NA
+2021,Hook & Line,LE Fixed Gear DTL,CA,0,3.547,430.976,0.82,4,8,12,0,0,0,0,NA,NA
+2021,Hook & Line,LE Fixed Gear DTL,OR,0,3.618,27.585,13.12,1,1,9,0,0,0,0,NA,NA
+2021,Hook & Line,LE Fixed Gear DTL,WA,NA,NA,6.192,0,0,0,0,NA,NA,NA,NA,NA,NA
+2021,Pot,LE Fixed Gear DTL,CA,NA,NA,7.386,0,0,0,0,NA,NA,NA,NA,NA,NA
+2021,Pot,LE Fixed Gear DTL,OR,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+2011,Bottom Trawl,Le/OA CA Halibut,CA,0.256,24.388,79.89,30.53,16,111,361,8,2.22,0.01048,0.837,0.256,1.535
+2012,Bottom Trawl,Le/OA CA Halibut,CA,0.22,22.452,55.295,40.6,8,75,221,34,15.38,0.00979,0.542,0.22,0.887
+2013,Bottom Trawl,Le/OA CA Halibut,CA,0,23.643,68.979,34.28,7,72,221,0,0,0,0,NA,NA
+2014,Bottom Trawl,Le/OA CA Halibut,CA,0.009,18.139,80.951,22.41,7,51,145,1,0.69,5e-4,0.04,0.009,0.12
+2015,Bottom Trawl,Le/OA CA Halibut,CA,0,30.614,91.983,33.28,8,100,339,0,0,0,0,NA,NA
+2016,Bottom Trawl,Le/OA CA Halibut,CA,0.041,27.326,89.545,30.52,11,114,500,2,0.4,0.00149,0.134,0.041,0.357
+2017,Bottom Trawl,Le/OA CA Halibut,CA,0.265,24.297,92.8,26.18,13,129,555,8,1.44,0.01091,1.012,0.265,1.814
+2018,Bottom Trawl,Le/OA CA Halibut,CA,0.295,18.584,72.368,25.68,11,134,545,9,1.65,0.0159,1.15,0.358,1.943
+2019,Bottom Trawl,Le/OA CA Halibut,CA,0.323,32.195,120.65,26.68,14,152,528,9,1.7,0.01002,1.209,0.374,2.043
+2020,Bottom Trawl,Le/OA CA Halibut,CA,0.235,12.86,91.665,14.03,10,58,270,7,2.59,0.01825,1.673,0.363,2.983
+2021,Bottom Trawl,Le/OA CA Halibut,CA,0.242,30.208,164.276,18.39,12,87,278,12,4.32,0.00802,1.317,0.458,2.176
+2002,Hook & Line,Limited Entry Sablefish,CA,0,15.449,143.314,10.78,6,13,51,0,0,0,0,NA,NA
+2002,Hook & Line,Limited Entry Sablefish,OR,0,84.714,261.407,32.41,11,33,123,0,0,0,0,NA,NA
+2002,Hook & Line,Limited Entry Sablefish,WA,0,90.622,395.283,22.93,9,22,217,0,0,0,0,NA,NA
+2002,Pot,Limited Entry Sablefish,CA,0,16.916,43.094,39.25,3,14,121,0,0,0,0,NA,NA
+2002,Pot,Limited Entry Sablefish,OR,0,65.555,295.024,22.22,3,9,126,0,0,0,0,NA,NA
+2002,Pot,Limited Entry Sablefish,WA,NA,NA,17.617,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Hook & Line,Limited Entry Sablefish,CA,0,23.952,220.246,10.88,4,13,50,0,0,0,0,NA,NA
+2003,Hook & Line,Limited Entry Sablefish,OR,0,44.184,326.684,13.52,4,9,85,0,0,0,0,NA,NA
+2003,Hook & Line,Limited Entry Sablefish,WA,0.063,154.713,504.623,30.66,8,26,216,1,0.46,4.1e-4,0.205,0.063,0.606
+2003,Pot,Limited Entry Sablefish,CA,0,6.713,49.709,13.51,1,8,75,0,0,0,0,NA,NA
+2003,Pot,Limited Entry Sablefish,OR,0,136.195,375.685,36.25,4,25,252,0,0,0,0,NA,NA
+2003,Pot,Limited Entry Sablefish,WA,0,5.401,178.576,3.02,1,2,35,0,0,0,0,NA,NA
+2004,Hook & Line,Limited Entry Sablefish,CA,0,20.892,186.34,11.21,6,12,42,0,0,0,0,NA,NA
+2004,Hook & Line,Limited Entry Sablefish,OR,0,95.66,453.082,21.11,5,17,103,0,0,0,0,NA,NA
+2004,Hook & Line,Limited Entry Sablefish,WA,0,63.463,679.537,9.34,7,16,181,0,0,0,0,NA,NA
+2004,Pot,Limited Entry Sablefish,CA,0,37.96,103.71,36.6,2,8,49,0,0,0,0,NA,NA
+2004,Pot,Limited Entry Sablefish,OR,0,44.722,476.336,9.39,1,5,90,0,0,0,0,NA,NA
+2004,Pot,Limited Entry Sablefish,WA,NA,NA,46.816,0,0,0,0,NA,NA,NA,NA,NA,NA
+2005,Hook & Line,Limited Entry Sablefish,CA,0,65.867,196.603,33.5,5,20,82,0,0,0,0,NA,NA
+2005,Hook & Line,Limited Entry Sablefish,OR,0,185.006,434.758,42.55,11,49,183,0,0,0,0,NA,NA
+2005,Hook & Line,Limited Entry Sablefish,WA,0,230.579,718.795,32.08,10,32,413,0,0,0,0,NA,NA
+2005,Pot,Limited Entry Sablefish,CA,0,0.179,61.065,0.29,1,1,1,0,0,0,0,NA,NA
+2005,Pot,Limited Entry Sablefish,OR,0,247.082,471.712,52.38,5,28,396,0,0,0,0,NA,NA
+2005,Pot,Limited Entry Sablefish,WA,0,33.917,81.541,41.6,1,10,95,0,0,0,0,NA,NA
+2006,Hook & Line,Limited Entry Sablefish,CA,0,22.491,220.111,10.22,2,7,25,0,0,0,0,NA,NA
+2006,Hook & Line,Limited Entry Sablefish,OR,0,35.357,322.611,10.96,6,16,67,0,0,0,0,NA,NA
+2006,Hook & Line,Limited Entry Sablefish,WA,0,238.078,858.505,27.73,11,44,378,0,0,0,0,NA,NA
+2006,Pot,Limited Entry Sablefish,CA,0,83.713,107.906,77.58,4,22,129,0,0,0,0,NA,NA
+2006,Pot,Limited Entry Sablefish,OR,0,116.754,475.063,24.58,3,17,160,0,0,0,0,NA,NA
+2006,Pot,Limited Entry Sablefish,WA,NA,NA,28.121,0,0,0,0,NA,NA,NA,NA,NA,NA
+2007,Hook & Line,Limited Entry Sablefish,CA,0,23.827,176.608,13.49,4,11,33,0,0,0,0,NA,NA
+2007,Hook & Line,Limited Entry Sablefish,OR,0,82.158,326.24,25.18,8,26,82,0,0,0,0,NA,NA
+2007,Hook & Line,Limited Entry Sablefish,WA,0,192.501,603.719,31.89,10,38,402,0,0,0,0,NA,NA
+2007,Pot,Limited Entry Sablefish,CA,0,34.507,71.227,48.45,2,14,38,0,0,0,0,NA,NA
+2007,Pot,Limited Entry Sablefish,OR,0,55.458,357.146,15.53,2,16,116,0,0,0,0,NA,NA
+2008,Hook & Line,Limited Entry Sablefish,CA,0,36.848,172.269,21.39,2,5,34,0,0,0,0,NA,NA
+2008,Hook & Line,Limited Entry Sablefish,OR,0,109.744,375.146,29.25,7,36,152,0,0,0,0,NA,NA
+2008,Hook & Line,Limited Entry Sablefish,WA,0,191.556,563.732,33.98,10,36,354,0,0,0,0,NA,NA
+2008,Pot,Limited Entry Sablefish,CA,0,9.658,73.556,13.13,1,3,4,0,0,0,0,NA,NA
+2008,Pot,Limited Entry Sablefish,OR,0,235.217,359.422,65.44,5,21,325,0,0,0,0,NA,NA
+2009,Hook & Line,Limited Entry Sablefish,CA,0,5.561,254.584,2.18,2,14,15,0,0,0,0,NA,NA
+2009,Hook & Line,Limited Entry Sablefish,OR,0,34.95,551.026,6.34,4,18,64,0,0,0,0,NA,NA
+2009,Hook & Line,Limited Entry Sablefish,WA,0,57.301,645.927,8.87,4,13,208,0,0,0,0,NA,NA
+2009,Pot,Limited Entry Sablefish,CA,0,65.956,89.89,73.37,2,26,65,0,0,0,0,NA,NA
+2009,Pot,Limited Entry Sablefish,OR,0,0.521,398.526,0.13,1,1,2,0,0,0,0,NA,NA
+2009,Pot,Limited Entry Sablefish,WA,NA,NA,0.227,0,0,0,0,NA,NA,NA,NA,NA,NA
+2010,Hook & Line,Limited Entry Sablefish,CA,0,25.116,262.288,9.58,7,30,51,0,0,0,0,NA,NA
+2010,Hook & Line,Limited Entry Sablefish,OR,0,123.241,478.526,25.75,7,70,272,0,0,0,0,NA,NA
+2010,Hook & Line,Limited Entry Sablefish,WA,0,197.417,563.341,35.04,7,43,439,0,0,0,0,NA,NA
+2010,Pot,Limited Entry Sablefish,CA,0,31.729,84.83,37.4,2,21,51,0,0,0,0,NA,NA
+2010,Pot,Limited Entry Sablefish,OR,0,94.195,320.804,29.36,4,15,231,0,0,0,0,NA,NA
+2010,Pot,Limited Entry Sablefish,WA,0,14.462,100.307,14.42,2,7,32,0,0,0,0,NA,NA
+2011,Hook & Line,Limited Entry Sablefish,CA,0,45.765,271.262,16.87,6,21,51,0,0,0,0,NA,NA
+2011,Hook & Line,Limited Entry Sablefish,OR,0,63.597,434.392,14.64,8,46,215,0,0,0,0,NA,NA
+2011,Hook & Line,Limited Entry Sablefish,WA,0,131.374,457.119,28.74,9,31,407,0,0,0,0,NA,NA
+2011,Pot,Limited Entry Sablefish,CA,0,8.668,108.265,8.01,1,11,27,0,0,0,0,NA,NA
+2011,Pot,Limited Entry Sablefish,OR,0,128.752,259.629,49.59,2,11,200,0,0,0,0,NA,NA
+2011,Pot,Limited Entry Sablefish,WA,NA,NA,0.819,0,0,0,0,NA,NA,NA,NA,NA,NA
+2012,Hook & Line,Limited Entry Sablefish,CA,0,58.159,257.86,22.55,3,14,98,0,0,0,0,NA,NA
+2012,Hook & Line,Limited Entry Sablefish,OR,0,111.047,505.284,21.98,9,56,276,0,0,0,0,NA,NA
+2012,Hook & Line,Limited Entry Sablefish,WA,0,70.109,330.666,21.2,5,18,158,0,0,0,0,NA,NA
+2012,Pot,Limited Entry Sablefish,CA,0,40.118,115.102,34.85,2,10,57,0,0,0,0,NA,NA
+2012,Pot,Limited Entry Sablefish,OR,0,25.743,124.47,20.68,1,2,171,0,0,0,0,NA,NA
+2012,Pot,Limited Entry Sablefish,WA,0,35.243,46.409,75.94,2,7,123,0,0,0,0,NA,NA
+2013,Hook & Line,Limited Entry Sablefish,CA,0,76.921,205.036,37.52,8,27,124,0,0,0,0,NA,NA
+2013,Hook & Line,Limited Entry Sablefish,OR,0,19.607,280.55,6.99,4,19,62,0,0,0,0,NA,NA
+2013,Hook & Line,Limited Entry Sablefish,WA,0,69.892,268.719,26.01,6,12,167,0,0,0,0,NA,NA
+2013,Pot,Limited Entry Sablefish,CA,0,40.523,58.737,68.99,2,8,35,0,0,0,0,NA,NA
+2013,Pot,Limited Entry Sablefish,OR,0,0,203.013,0,1,6,12,0,0,NA,NA,NA,NA
+2013,Pot,Limited Entry Sablefish,WA,NA,NA,21.384,0,0,0,0,NA,NA,NA,NA,NA,NA
+2014,Hook & Line,Limited Entry Sablefish,CA,0,71.1,210.843,33.72,8,53,143,0,0,0,0,NA,NA
+2014,Hook & Line,Limited Entry Sablefish,OR,0,46.279,265.429,17.44,4,18,69,0,0,0,0,NA,NA
+2014,Hook & Line,Limited Entry Sablefish,WA,0.296,82.299,290.95,28.29,5,14,274,2,0.73,0.0036,1.046,0.296,2.939
+2014,Pot,Limited Entry Sablefish,CA,0,43.415,90.176,48.14,2,8,36,0,0,0,0,NA,NA
+2014,Pot,Limited Entry Sablefish,OR,0,31.821,219.132,14.52,1,3,103,0,0,0,0,NA,NA
+2014,Pot,Limited Entry Sablefish,WA,0,28.777,28.777,100,1,5,56,0,0,0,0,NA,NA
+2015,Hook & Line,Limited Entry Sablefish,CA,0,106.425,251.977,42.24,8,33,134,0,0,0,0,NA,NA
+2015,Hook & Line,Limited Entry Sablefish,OR,0,139.882,342.6,40.83,11,34,150,0,0,0,0,NA,NA
+2015,Hook & Line,Limited Entry Sablefish,WA,0,150.475,366.306,41.08,8,30,344,0,0,0,0,NA,NA
+2015,Pot,Limited Entry Sablefish,CA,0,62.251,78.763,79.04,4,16,66,0,0,0,0,NA,NA
+2015,Pot,Limited Entry Sablefish,OR,0,156.534,279.444,56.02,5,19,233,0,0,0,0,NA,NA
+2016,Hook & Line,Limited Entry Sablefish,CA,0,99.049,292.082,33.91,8,41,152,0,0,0,0,NA,NA
+2016,Hook & Line,Limited Entry Sablefish,OR,0,118.779,354.897,33.47,7,33,182,0,0,0,0,NA,NA
+2016,Hook & Line,Limited Entry Sablefish,WA,0.073,117.104,379.096,30.89,6,20,328,1,0.3,6.2e-4,0.235,0.073,0.695
+2016,Pot,Limited Entry Sablefish,CA,0,8.125,81.507,9.97,1,13,22,0,0,0,0,NA,NA
+2016,Pot,Limited Entry Sablefish,OR,0,232.173,261.926,88.64,5,38,529,0,0,0,0,NA,NA
+2016,Pot,Limited Entry Sablefish,WA,0,22.464,24.06,93.37,2,4,45,0,0,0,0,NA,NA
+2017,Hook & Line,Limited Entry Sablefish,CA,0,113.576,298.091,38.1,10,58,180,0,0,0,0,NA,NA
+2017,Hook & Line,Limited Entry Sablefish,OR,0,80.522,356.8,22.57,5,23,140,0,0,0,0,NA,NA
+2017,Hook & Line,Limited Entry Sablefish,WA,0.171,199.933,422.352,47.34,10,28,374,3,0.8,8.5e-4,0.36,0.171,0.769
+2017,Pot,Limited Entry Sablefish,CA,0,39.526,121.063,32.65,1,5,43,0,0,0,0,NA,NA
+2017,Pot,Limited Entry Sablefish,OR,0,75.935,243.611,31.17,2,9,143,0,0,0,0,NA,NA
+2017,Pot,Limited Entry Sablefish,WA,NA,NA,10.129,0,0,0,0,NA,NA,NA,NA,NA,NA
+2018,Hook & Line,Limited Entry Sablefish,CA,0,81.969,293.232,27.95,8,61,145,0,0,0,0,NA,NA
+2018,Hook & Line,Limited Entry Sablefish,OR,0,161.141,365.254,44.12,10,30,200,0,0,0,0,NA,NA
+2018,Hook & Line,Limited Entry Sablefish,WA,0.132,215.674,396.226,54.43,9,30,485,2,0.41,6.1e-4,0.242,0.132,0.577
+2018,Pot,Limited Entry Sablefish,CA,0,56.644,81.168,69.79,2,8,55,0,0,0,0,NA,NA
+2018,Pot,Limited Entry Sablefish,OR,0,215.77,269.654,80.02,4,24,393,0,0,0,0,NA,NA
+2018,Pot,Limited Entry Sablefish,WA,0,19.846,55.806,35.56,1,4,75,0,0,0,0,NA,NA
+2019,Hook & Line,Limited Entry Sablefish,CA,0,70.129,240.875,29.11,7,39,124,0,0,0,0,NA,NA
+2019,Hook & Line,Limited Entry Sablefish,OR,0,105.82,303.455,34.87,7,27,113,0,0,0,0,NA,NA
+2019,Hook & Line,Limited Entry Sablefish,WA,0,182.605,396.259,46.08,8,30,436,0,0,0,0,NA,NA
+2019,Pot,Limited Entry Sablefish,CA,0,5.475,82.072,6.67,1,5,11,0,0,0,0,NA,NA
+2019,Pot,Limited Entry Sablefish,OR,0,201.136,333.298,60.35,4,19,414,0,0,0,0,NA,NA
+2019,Pot,Limited Entry Sablefish,WA,NA,NA,23.801,0,0,0,0,NA,NA,NA,NA,NA,NA
+2020,Hook & Line,Limited Entry Sablefish,CA,0,28.597,165.136,17.32,6,33,67,1,1.49,2e-5,0.003,0,0.008
+2020,Hook & Line,Limited Entry Sablefish,OR,0,20.636,217.3,9.5,2,10,28,0,0,0,0,NA,NA
+2020,Hook & Line,Limited Entry Sablefish,WA,0,36.186,211.208,17.13,4,6,81,0,0,0,0,NA,NA
+2020,Pot,Limited Entry Sablefish,CA,0,15.76,71.106,22.16,1,3,7,0,0,0,0,NA,NA
+2020,Pot,Limited Entry Sablefish,OR,0,211.311,353.003,59.86,6,28,425,0,0,0,0,NA,NA
+2020,Pot,Limited Entry Sablefish,WA,0,24.334,112.425,21.64,2,3,29,0,0,0,0,NA,NA
+2021,Hook & Line,Limited Entry Sablefish,CA,0.039,89.531,245.416,36.48,8,51,144,1,0.69,4.3e-4,0.106,0.039,0.313
+2021,Hook & Line,Limited Entry Sablefish,OR,0,83.26,279.747,29.76,7,25,111,0,0,0,0,NA,NA
+2021,Hook & Line,Limited Entry Sablefish,WA,0,81.311,288.928,28.14,4,16,161,0,0,0,0,NA,NA
+2021,Pot,Limited Entry Sablefish,CA,0,80.438,178.484,45.07,3,13,96,0,0,0,0,NA,NA
+2021,Pot,Limited Entry Sablefish,OR,0,78.312,348.011,22.5,3,8,98,0,0,0,0,NA,NA
+2021,Pot,Limited Entry Sablefish,WA,0,63.31,44.968,140.79,1,3,80,0,0,0,0,NA,NA
+2002,Bottom/Midwater Trawl,Limited Entry Trawl,CA,0,986.279,7636.907,12.91,66,241,1047,0,0,0,0,NA,NA
+2002,Bottom/Midwater Trawl,Limited Entry Trawl,OR,0,1070.638,7447.559,14.38,58,197,1604,0,0,0,0,NA,NA
+2002,Bottom/Midwater Trawl,Limited Entry Trawl,WA,0,439.409,2309.244,19.03,10,131,534,0,0,0,0,NA,NA
+2003,Bottom/Midwater Trawl,Limited Entry Trawl,CA,0,900.269,6944.473,12.96,58,240,820,0,0,0,0,NA,NA
+2003,Bottom/Midwater Trawl,Limited Entry Trawl,OR,0,1352.639,8546.998,15.83,58,172,1278,0,0,0,0,NA,NA
+2003,Bottom/Midwater Trawl,Limited Entry Trawl,WA,0,180.646,1913.824,9.44,10,53,217,0,0,0,0,NA,NA
+2004,Bottom/Midwater Trawl,Limited Entry Trawl,CA,0.029,1490.968,5741.519,25.97,42,236,1038,3,0.29,2e-5,0.111,0.029,0.276
+2004,Bottom/Midwater Trawl,Limited Entry Trawl,OR,0.027,2170.362,9574.002,22.67,55,247,1932,1,0.05,1e-5,0.12,0.027,0.355
+2004,Bottom/Midwater Trawl,Limited Entry Trawl,WA,0.036,514.719,1781.372,28.89,11,132,512,2,0.39,7e-5,0.126,0.036,0.3
+2005,Bottom/Midwater Trawl,Limited Entry Trawl,CA,0.007,1082.484,5493.005,19.71,37,181,833,1,0.12,1e-5,0.036,0.007,0.106
+2005,Bottom/Midwater Trawl,Limited Entry Trawl,OR,0.038,2383.84,10017.915,23.8,59,247,2018,2,0.1,2e-5,0.159,0.038,0.382
+2005,Bottom/Midwater Trawl,Limited Entry Trawl,WA,0.029,576.504,2909.884,19.81,11,96,653,1,0.15,5e-5,0.149,0.029,0.441
+2006,Bottom/Midwater Trawl,Limited Entry Trawl,CA,0.012,956.18,4846.324,19.73,29,171,759,1,0.13,1e-5,0.06,0.012,0.178
+2006,Bottom/Midwater Trawl,Limited Entry Trawl,OR,0.041,1925.377,10221.352,18.84,53,215,1845,1,0.05,2e-5,0.22,0.041,0.65
+2006,Bottom/Midwater Trawl,Limited Entry Trawl,WA,0,365.486,1705.849,21.43,10,90,421,0,0,0,0,NA,NA
+2007,Bottom/Midwater Trawl,Limited Entry Trawl,CA,0,1119.326,6048.87,18.5,30,148,769,0,0,0,0,NA,NA
+2007,Bottom/Midwater Trawl,Limited Entry Trawl,OR,0,1965.346,12012.579,16.36,58,198,1612,0,0,0,0,NA,NA
+2007,Bottom/Midwater Trawl,Limited Entry Trawl,WA,0,226.652,1514.034,14.97,7,27,168,0,0,0,0,NA,NA
+2008,Bottom/Midwater Trawl,Limited Entry Trawl,CA,0,1204.102,6447.756,18.67,30,163,848,0,0,0,0,NA,NA
+2008,Bottom/Midwater Trawl,Limited Entry Trawl,OR,0,3156.409,14882.158,21.21,66,256,2136,0,0,0,0,NA,NA
+2008,Bottom/Midwater Trawl,Limited Entry Trawl,WA,0,310.01,1599.727,19.38,7,19,240,0,0,0,0,NA,NA
+2009,Bottom/Midwater Trawl,Limited Entry Trawl,CA,0,1185.026,6339.02,18.69,30,178,935,0,0,0,0,NA,NA
+2009,Bottom/Midwater Trawl,Limited Entry Trawl,OR,0,4026.339,16681.07,24.14,67,368,3117,0,0,0,0,NA,NA
+2009,Bottom/Midwater Trawl,Limited Entry Trawl,WA,0,735.909,2556.207,28.79,8,44,403,0,0,0,0,NA,NA
+2010,Bottom/Midwater Trawl,Limited Entry Trawl,CA,0,785.329,5182.512,15.15,22,102,573,0,0,0,0,NA,NA
+2010,Bottom/Midwater Trawl,Limited Entry Trawl,OR,0,2754.439,14838.326,18.56,55,227,1906,0,0,0,0,NA,NA
+2010,Bottom/Midwater Trawl,Limited Entry Trawl,WA,0,502.677,2112.969,23.79,7,19,161,0,0,0,0,NA,NA
+2002,Fixed Gears,Nearshore,CA,NA,NA,382.364,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Fixed Gears,Nearshore,OR,NA,NA,279.953,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Fixed Gears,Nearshore,CA,0,8.096,255.531,3.17,31,107,204,0,0,0,0,NA,NA
+2003,Fixed Gears,Nearshore,OR,NA,NA,208.904,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Fixed Gears,Nearshore,CA,0,23.345,292.202,7.99,67,259,434,0,0,0,0,NA,NA
+2004,Fixed Gears,Nearshore,OR,0,10.29,210.321,4.89,31,109,210,0,0,0,0,NA,NA
+2005,Fixed Gears,Nearshore,CA,0,13.056,281.804,4.63,49,171,219,0,0,0,0,NA,NA
+2005,Fixed Gears,Nearshore,OR,0,11.886,180.387,6.59,48,138,170,0,0,0,0,NA,NA
+2006,Fixed Gears,Nearshore,CA,0,8.448,260.708,3.24,41,103,161,0,0,0,0,NA,NA
+2006,Fixed Gears,Nearshore,OR,0,19.675,165.551,11.88,55,239,385,0,0,0,0,NA,NA
+2007,Fixed Gears,Nearshore,CA,0,11.999,277.228,4.33,41,139,227,0,0,0,0,NA,NA
+2007,Fixed Gears,Nearshore,OR,0,16.344,181.493,9.01,36,164,248,0,0,0,0,NA,NA
+2008,Fixed Gears,Nearshore,CA,0,6.696,296.764,2.26,26,75,89,0,0,0,0,NA,NA
+2008,Fixed Gears,Nearshore,OR,0,14.749,189.264,7.79,44,151,185,0,0,0,0,NA,NA
+2009,Fixed Gears,Nearshore,CA,0,6.771,260.839,2.6,28,89,123,0,0,0,0,NA,NA
+2009,Fixed Gears,Nearshore,OR,0,13.991,223.324,6.26,45,151,225,0,0,0,0,NA,NA
+2010,Fixed Gears,Nearshore,CA,0,7.088,219.554,3.23,26,91,117,0,0,0,0,NA,NA
+2010,Fixed Gears,Nearshore,OR,0,13.484,171.643,7.86,56,162,213,0,0,0,0,NA,NA
+2011,Fixed Gears,Nearshore,CA,0,8.559,216.781,3.95,32,145,214,0,0,0,0,NA,NA
+2011,Fixed Gears,Nearshore,OR,0,15.922,194.25,8.2,57,205,244,0,0,0,0,NA,NA
+2012,Fixed Gears,Nearshore,CA,0,11.996,201.208,5.96,38,151,239,0,0,0,0,NA,NA
+2012,Fixed Gears,Nearshore,OR,0,20.77,196.011,10.6,60,235,290,0,0,0,0,NA,NA
+2013,Fixed Gears,Nearshore,CA,0,11.847,221.772,5.34,38,142,193,0,0,0,0,NA,NA
+2013,Fixed Gears,Nearshore,OR,0,16.144,206.743,7.81,66,212,264,0,0,0,0,NA,NA
+2014,Fixed Gears,Nearshore,CA,0.004,11.534,247.384,4.66,40,135,182,2,1.1,3.3e-4,0.083,0.004,0.198
+2014,Fixed Gears,Nearshore,OR,0,16.697,202.292,8.25,58,175,196,0,0,0,0,NA,NA
+2015,Fixed Gears,Nearshore,CA,0,22.96,333.436,6.89,42,212,277,0,0,0,0,NA,NA
+2015,Fixed Gears,Nearshore,OR,0.009,18.509,217.529,8.51,58,190,237,1,0.42,4.9e-4,0.107,0.009,0.316
+2016,Fixed Gears,Nearshore,CA,0,13.241,249.399,5.31,37,119,156,0,0,0,0,NA,NA
+2016,Fixed Gears,Nearshore,OR,0,21.939,180.38,12.16,53,214,264,0,0,0,0,NA,NA
+2017,Fixed Gears,Nearshore,CA,0.006,14.343,241.234,5.95,38,123,162,2,1.23,4.5e-4,0.109,0.006,0.291
+2017,Fixed Gears,Nearshore,OR,0,25.245,232.025,10.88,59,197,237,0,0,0,0,NA,NA
+2018,Fixed Gears,Nearshore,CA,0,10.953,226.417,4.84,29,99,134,0,0,0,0,NA,NA
+2018,Fixed Gears,Nearshore,OR,0,21.623,245.794,8.8,61,203,254,0,0,0,0,NA,NA
+2019,Fixed Gears,Nearshore,CA,0,12.904,258.114,5,31,106,149,0,0,0,0,NA,NA
+2019,Fixed Gears,Nearshore,OR,0,22.527,242.826,9.28,61,204,306,0,0,0,0,NA,NA
+2020,Fixed Gears,Nearshore,CA,0.029,8.646,228.349,3.79,29,88,105,1,0.95,0.00341,0.779,0.029,2.305
+2020,Fixed Gears,Nearshore,OR,0,16.354,204.438,8,46,145,197,0,0,0,0,NA,NA
+2021,Fixed Gears,Nearshore,CA,0.018,12.354,253.081,4.88,35,91,145,1,0.69,0.00147,0.372,0.018,1.1
+2021,Fixed Gears,Nearshore,OR,0.045,21.641,211.105,10.25,50,205,302,1,0.33,0.0021,0.442,0.045,1.31
+2002,Bottom Trawl,OA CA Halibut,CA,NA,NA,36.14,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Bottom Trawl,OA CA Halibut,CA,0,1.975,25.706,7.68,5,18,110,0,0,0,0,NA,NA
+2004,Bottom Trawl,OA CA Halibut,CA,0,5.1,70.785,7.2,4,53,244,0,0,0,0,NA,NA
+2005,Bottom Trawl,OA CA Halibut,CA,0,7.431,64.51,11.52,6,59,362,0,0,0,0,NA,NA
+2006,Bottom Trawl,OA CA Halibut,CA,NA,NA,54.832,0,0,0,0,NA,NA,NA,NA,NA,NA
+2007,Bottom Trawl,OA CA Halibut,CA,0,2.745,39.166,7.01,8,48,227,0,0,0,0,NA,NA
+2008,Bottom Trawl,OA CA Halibut,CA,0,2.666,51.82,5.14,7,49,199,0,0,0,0,NA,NA
+2009,Bottom Trawl,OA CA Halibut,CA,0,0.634,82.343,0.77,3,9,30,0,0,0,0,NA,NA
+2010,Bottom Trawl,OA CA Halibut,CA,0,2.4,69.433,3.46,6,34,112,0,0,0,0,NA,NA
+2002,Hook & Line,OA Fixed Gear,CA,NA,NA,275.929,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Hook & Line,OA Fixed Gear,OR,NA,NA,37.977,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Hook & Line,OA Fixed Gear,WA,NA,NA,73.258,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Pot,OA Fixed Gear,CA,NA,NA,97.011,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Pot,OA Fixed Gear,OR,NA,NA,13.976,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Pot,OA Fixed Gear,WA,NA,NA,0,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Hook & Line,OA Fixed Gear,CA,0,16.538,290.596,5.69,13,41,49,0,0,0,0,NA,NA
+2003,Hook & Line,OA Fixed Gear,OR,NA,NA,113.021,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Hook & Line,OA Fixed Gear,WA,NA,NA,159.399,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Pot,OA Fixed Gear,CA,0,2.937,161.82,1.82,7,16,50,0,0,0,0,NA,NA
+2003,Pot,OA Fixed Gear,OR,NA,NA,20.738,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Pot,OA Fixed Gear,WA,NA,NA,8.026,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Hook & Line,OA Fixed Gear,CA,0,16.207,227.276,7.13,14,42,52,0,0,0,0,NA,NA
+2004,Hook & Line,OA Fixed Gear,OR,NA,NA,72.879,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Hook & Line,OA Fixed Gear,WA,NA,NA,181.422,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Pot,OA Fixed Gear,CA,0,16.987,173.682,9.78,17,96,185,0,0,0,0,NA,NA
+2004,Pot,OA Fixed Gear,OR,NA,NA,7.773,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Pot,OA Fixed Gear,WA,NA,NA,4.576,0,0,0,0,NA,NA,NA,NA,NA,NA
+2005,Hook & Line,OA Fixed Gear,CA,0,9.782,247.59,3.95,10,34,37,0,0,0,0,NA,NA
+2005,Hook & Line,OA Fixed Gear,OR,NA,NA,224.489,0,0,0,0,NA,NA,NA,NA,NA,NA
+2005,Hook & Line,OA Fixed Gear,WA,NA,NA,151.871,0,0,0,0,NA,NA,NA,NA,NA,NA
+2005,Pot,OA Fixed Gear,CA,0,10.666,279.232,3.82,14,43,50,0,0,0,0,NA,NA
+2005,Pot,OA Fixed Gear,OR,NA,NA,51.328,0,0,0,0,NA,NA,NA,NA,NA,NA
+2005,Pot,OA Fixed Gear,WA,NA,NA,48.733,0,0,0,0,NA,NA,NA,NA,NA,NA
+2006,Hook & Line,OA Fixed Gear,CA,0,4.499,181.227,2.48,7,10,11,0,0,0,0,NA,NA
+2006,Hook & Line,OA Fixed Gear,OR,NA,NA,180.731,0,0,0,0,NA,NA,NA,NA,NA,NA
+2006,Hook & Line,OA Fixed Gear,WA,NA,NA,123.974,0,0,0,0,NA,NA,NA,NA,NA,NA
+2006,Pot,OA Fixed Gear,CA,0,7.903,265.978,2.97,15,38,39,0,0,0,0,NA,NA
+2006,Pot,OA Fixed Gear,OR,NA,NA,75.879,0,0,0,0,NA,NA,NA,NA,NA,NA
+2006,Pot,OA Fixed Gear,WA,NA,NA,101.077,0,0,0,0,NA,NA,NA,NA,NA,NA
+2007,Hook & Line,OA Fixed Gear,CA,0,1.774,114.693,1.55,6,12,12,0,0,0,0,NA,NA
+2007,Hook & Line,OA Fixed Gear,OR,0,6.811,103.932,6.55,16,31,38,0,0,0,0,NA,NA
+2007,Hook & Line,OA Fixed Gear,WA,0,1.815,44.79,4.05,3,8,17,0,0,0,0,NA,NA
+2007,Pot,OA Fixed Gear,CA,0,7.193,225.371,3.19,14,35,35,0,0,0,0,NA,NA
+2007,Pot,OA Fixed Gear,OR,0,0.868,17.423,4.98,3,7,16,0,0,0,0,NA,NA
+2007,Pot,OA Fixed Gear,WA,0,0.692,15.069,4.59,4,4,24,0,0,0,0,NA,NA
+2008,Hook & Line,OA Fixed Gear,CA,0,4.798,182.704,2.63,10,18,18,0,0,0,0,NA,NA
+2008,Hook & Line,OA Fixed Gear,OR,0,6.56,174.681,3.76,15,27,30,0,0,0,0,NA,NA
+2008,Hook & Line,OA Fixed Gear,WA,0,4.793,45.066,10.63,8,13,20,0,0,0,0,NA,NA
+2008,Pot,OA Fixed Gear,CA,0,9.375,226.195,4.14,16,48,50,0,0,0,0,NA,NA
+2008,Pot,OA Fixed Gear,OR,0,0.548,11.015,4.98,2,4,16,0,0,0,0,NA,NA
+2008,Pot,OA Fixed Gear,WA,0,0.502,11.183,4.49,2,3,9,0,0,0,0,NA,NA
+2009,Hook & Line,OA Fixed Gear,CA,0,9.648,388.96,2.48,14,24,41,0,0,0,0,NA,NA
+2009,Hook & Line,OA Fixed Gear,OR,0,8.655,204.865,4.22,14,32,37,0,0,0,0,NA,NA
+2009,Hook & Line,OA Fixed Gear,WA,0,3.502,51.151,6.85,6,13,26,0,0,0,0,NA,NA
+2009,Pot,OA Fixed Gear,CA,0,8.285,341.926,2.42,14,26,35,0,0,0,0,NA,NA
+2009,Pot,OA Fixed Gear,OR,0,0.312,18.702,1.67,2,2,7,0,0,0,0,NA,NA
+2009,Pot,OA Fixed Gear,WA,0,0.22,12.883,1.71,2,2,3,0,0,0,0,NA,NA
+2010,Hook & Line,OA Fixed Gear,CA,0,11.956,588.686,2.03,14,25,28,0,0,0,0,NA,NA
+2010,Hook & Line,OA Fixed Gear,OR,0,6.098,117.14,5.21,16,30,39,0,0,0,0,NA,NA
+2010,Hook & Line,OA Fixed Gear,WA,0,5,50.609,9.88,8,15,38,0,0,0,0,NA,NA
+2010,Pot,OA Fixed Gear,CA,0,8.836,293.675,3.01,23,34,46,0,0,0,0,NA,NA
+2010,Pot,OA Fixed Gear,OR,0,1.816,12.742,14.25,2,5,24,0,0,0,0,NA,NA
+2010,Pot,OA Fixed Gear,WA,0,0.009,11.866,0.08,1,1,1,0,0,0,0,NA,NA
+2011,Hook & Line,OA Fixed Gear,CA,0,7.434,288.156,2.58,16,26,31,0,0,0,0,NA,NA
+2011,Hook & Line,OA Fixed Gear,OR,0,9.677,108.735,8.9,18,31,42,0,0,0,0,NA,NA
+2011,Hook & Line,OA Fixed Gear,WA,0,3.023,37.387,8.09,6,12,28,0,0,0,0,NA,NA
+2011,Pot,OA Fixed Gear,CA,0,17.108,212.582,8.05,23,52,73,0,0,0,0,NA,NA
+2011,Pot,OA Fixed Gear,OR,0,0.704,27.29,2.58,1,2,2,0,0,0,0,NA,NA
+2011,Pot,OA Fixed Gear,WA,0,1.125,15.917,7.07,5,7,10,0,0,0,0,NA,NA
+2012,Hook & Line,OA Fixed Gear,CA,0,4.997,209.109,2.39,9,13,20,0,0,0,0,NA,NA
+2012,Hook & Line,OA Fixed Gear,OR,0,5.533,69.873,7.92,13,18,23,0,0,0,0,NA,NA
+2012,Hook & Line,OA Fixed Gear,WA,0,0.954,44.073,2.16,2,3,10,0,0,0,0,NA,NA
+2012,Pot,OA Fixed Gear,CA,0,8.013,104.018,7.7,15,25,27,0,0,0,0,NA,NA
+2012,Pot,OA Fixed Gear,OR,0,0.798,11.924,6.7,2,4,31,0,0,0,0,NA,NA
+2012,Pot,OA Fixed Gear,WA,0,0.315,9.906,3.18,2,6,12,0,0,0,0,NA,NA
+2013,Hook & Line,OA Fixed Gear,CA,0,3.26,129.362,2.52,9,18,24,0,0,0,0,NA,NA
+2013,Hook & Line,OA Fixed Gear,OR,0,1.447,33.757,4.29,5,5,6,0,0,0,0,NA,NA
+2013,Hook & Line,OA Fixed Gear,WA,NA,NA,31.084,0,0,0,0,NA,NA,NA,NA,NA,NA
+2013,Pot,OA Fixed Gear,CA,0,5.124,65.53,7.82,13,18,21,0,0,0,0,NA,NA
+2013,Pot,OA Fixed Gear,OR,0,0.629,4.409,14.26,3,4,20,0,0,0,0,NA,NA
+2013,Pot,OA Fixed Gear,WA,0,0.544,2.216,24.56,1,3,7,0,0,0,0,NA,NA
+2014,Hook & Line,OA Fixed Gear,CA,0,7.19,168.714,4.26,13,17,23,0,0,0,0,NA,NA
+2014,Hook & Line,OA Fixed Gear,OR,0,3.103,35.426,8.76,5,7,7,0,0,0,0,NA,NA
+2014,Hook & Line,OA Fixed Gear,WA,0,1.484,21.374,6.94,3,4,9,0,0,0,0,NA,NA
+2014,Pot,OA Fixed Gear,CA,0,9.383,134.985,6.95,15,32,46,0,0,0,0,NA,NA
+2014,Pot,OA Fixed Gear,OR,0,1.202,7.381,16.29,2,4,11,0,0,0,0,NA,NA
+2014,Pot,OA Fixed Gear,WA,0,1.077,5.33,20.2,4,5,6,0,0,0,0,NA,NA
+2015,Hook & Line,OA Fixed Gear,CA,0,9.707,239.238,4.06,9,17,27,0,0,0,0,NA,NA
+2015,Hook & Line,OA Fixed Gear,OR,0,6.183,97.481,6.34,6,13,14,0,0,0,0,NA,NA
+2015,Hook & Line,OA Fixed Gear,WA,0,1.582,27.296,5.79,5,8,13,0,0,0,0,NA,NA
+2015,Pot,OA Fixed Gear,CA,0,12.745,195.526,6.52,14,44,48,0,0,0,0,NA,NA
+2015,Pot,OA Fixed Gear,OR,0,0.804,11.698,6.88,1,2,12,0,0,0,0,NA,NA
+2015,Pot,OA Fixed Gear,WA,0,1.049,15.718,6.67,2,3,4,0,0,0,0,NA,NA
+2016,Hook & Line,OA Fixed Gear,CA,0,5.638,148.212,3.8,10,16,25,0,0,0,0,NA,NA
+2016,Hook & Line,OA Fixed Gear,OR,0,4.858,106.317,4.57,11,17,19,0,0,0,0,NA,NA
+2016,Hook & Line,OA Fixed Gear,WA,0,5.151,36.113,14.26,9,22,34,0,0,0,0,NA,NA
+2016,Pot,OA Fixed Gear,CA,0,14.002,178.725,7.83,22,48,57,0,0,0,0,NA,NA
+2016,Pot,OA Fixed Gear,OR,NA,NA,9.554,0,0,0,0,NA,NA,NA,NA,NA,NA
+2016,Pot,OA Fixed Gear,WA,0,1.27,18.22,6.97,5,7,16,0,0,0,0,NA,NA
+2017,Hook & Line,OA Fixed Gear,CA,0,3.682,159.729,2.31,15,21,26,0,0,0,0,NA,NA
+2017,Hook & Line,OA Fixed Gear,OR,0,7.86,167.631,4.69,19,29,31,0,0,0,0,NA,NA
+2017,Hook & Line,OA Fixed Gear,WA,0,3.383,28.509,11.87,9,11,22,0,0,0,0,NA,NA
+2017,Pot,OA Fixed Gear,CA,0,23.066,188.841,12.21,40,78,87,0,0,0,0,NA,NA
+2017,Pot,OA Fixed Gear,OR,0,0.577,9.203,6.27,1,2,21,0,0,0,0,NA,NA
+2017,Pot,OA Fixed Gear,WA,0,1.231,13.136,9.37,3,5,18,0,0,0,0,NA,NA
+2018,Hook & Line,OA Fixed Gear,CA,0,2.712,156.872,1.73,12,14,21,0,0,0,0,NA,NA
+2018,Hook & Line,OA Fixed Gear,OR,0,9.328,128.102,7.28,25,57,60,0,0,0,0,NA,NA
+2018,Hook & Line,OA Fixed Gear,WA,0,3.882,30.197,12.86,6,11,23,0,0,0,0,NA,NA
+2018,Pot,OA Fixed Gear,CA,0,16.175,152.078,10.64,29,51,82,0,0,0,0,NA,NA
+2018,Pot,OA Fixed Gear,OR,0,0.415,13.222,3.14,1,1,2,0,0,0,0,NA,NA
+2018,Pot,OA Fixed Gear,WA,0,0.628,10.356,6.06,4,5,5,0,0,0,0,NA,NA
+2019,Hook & Line,OA Fixed Gear,CA,0,3.015,147.163,2.05,10,18,24,0,0,0,0,NA,NA
+2019,Hook & Line,OA Fixed Gear,OR,0,3.343,104.073,3.21,13,22,30,0,0,0,0,NA,NA
+2019,Hook & Line,OA Fixed Gear,WA,0.102,5.441,38.751,14.04,7,10,26,2,7.69,0.01876,0.727,0.102,1.777
+2019,Pot,OA Fixed Gear,CA,0,16.395,145.884,11.24,25,45,60,0,0,0,0,NA,NA
+2019,Pot,OA Fixed Gear,OR,0,0.349,6.197,5.64,1,1,10,0,0,0,0,NA,NA
+2019,Pot,OA Fixed Gear,WA,NA,NA,3.835,0,0,0,0,NA,NA,NA,NA,NA,NA
+2020,Hook & Line,OA Fixed Gear,CA,0,2.727,153.665,1.77,3,9,10,0,0,0,0,NA,NA
+2020,Hook & Line,OA Fixed Gear,OR,0,3.543,79.182,4.47,7,14,22,0,0,0,0,NA,NA
+2020,Hook & Line,OA Fixed Gear,WA,0,0.326,12.758,2.56,1,1,2,0,0,0,0,NA,NA
+2020,Pot,OA Fixed Gear,CA,0,4.183,62.32,6.71,6,10,20,0,0,0,0,NA,NA
+2020,Pot,OA Fixed Gear,OR,NA,NA,0.763,0,0,0,0,NA,NA,NA,NA,NA,NA
+2020,Pot,OA Fixed Gear,WA,0,0.023,1.473,1.54,1,1,2,0,0,0,0,NA,NA
+2021,Hook & Line,OA Fixed Gear,CA,0,5.955,190.618,3.12,13,25,35,0,0,0,0,NA,NA
+2021,Hook & Line,OA Fixed Gear,OR,0,8.602,87.148,9.87,14,20,24,0,0,0,0,NA,NA
+2021,Hook & Line,OA Fixed Gear,WA,0,0.239,12.394,1.93,1,2,4,0,0,0,0,NA,NA
+2021,Pot,OA Fixed Gear,CA,0,3.819,74.72,5.11,6,9,25,0,0,0,0,NA,NA
+2021,Pot,OA Fixed Gear,OR,NA,NA,5.973,0,0,0,0,NA,NA,NA,NA,NA,NA
+2021,Pot,OA Fixed Gear,WA,NA,NA,2.4,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Shrimp Trawl,Pink Shrimp,CA,NA,NA,1849.266,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Shrimp Trawl,Pink Shrimp,OR,NA,NA,18896.302,0,0,0,0,NA,NA,NA,NA,NA,NA
+2002,Shrimp Trawl,Pink Shrimp,WA,NA,NA,4569.444,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Shrimp Trawl,Pink Shrimp,CA,NA,NA,974.268,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Shrimp Trawl,Pink Shrimp,OR,NA,NA,9321.516,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Shrimp Trawl,Pink Shrimp,WA,NA,NA,3580.605,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Shrimp Trawl,Pink Shrimp,CA,0,90.932,992.253,9.16,2,9,211,0,0,0,0,NA,NA
+2004,Shrimp Trawl,Pink Shrimp,OR,0,427.212,5537.009,7.72,18,43,765,0,0,0,0,NA,NA
+2004,Shrimp Trawl,Pink Shrimp,WA,0,65.773,2440.482,2.7,2,5,120,0,0,0,0,NA,NA
+2005,Shrimp Trawl,Pink Shrimp,CA,0,21.802,859.073,2.54,1,2,27,0,0,0,0,NA,NA
+2005,Shrimp Trawl,Pink Shrimp,OR,0,402.886,7159.423,5.63,22,36,533,0,0,0,0,NA,NA
+2005,Shrimp Trawl,Pink Shrimp,WA,NA,NA,2841.81,0,0,0,0,NA,NA,NA,NA,NA,NA
+2006,Shrimp Trawl,Pink Shrimp,CA,NA,NA,63.459,0,0,0,0,NA,NA,NA,NA,NA,NA
+2006,Shrimp Trawl,Pink Shrimp,OR,NA,NA,5531.822,0,0,0,0,NA,NA,NA,NA,NA,NA
+2006,Shrimp Trawl,Pink Shrimp,WA,NA,NA,2804.428,0,0,0,0,NA,NA,NA,NA,NA,NA
+2007,Shrimp Trawl,Pink Shrimp,CA,0,22.687,288.905,7.85,2,2,37,0,0,0,0,NA,NA
+2007,Shrimp Trawl,Pink Shrimp,OR,0,649.983,9128.603,7.12,28,61,929,0,0,0,0,NA,NA
+2007,Shrimp Trawl,Pink Shrimp,WA,NA,NA,1517.391,0,0,0,0,NA,NA,NA,NA,NA,NA
+2008,Shrimp Trawl,Pink Shrimp,CA,0,133.28,945.479,14.1,2,6,74,0,0,0,0,NA,NA
+2008,Shrimp Trawl,Pink Shrimp,OR,0,672.491,11575.858,5.81,30,49,785,0,0,0,0,NA,NA
+2008,Shrimp Trawl,Pink Shrimp,WA,NA,NA,2853.27,0,0,0,0,NA,NA,NA,NA,NA,NA
+2009,Shrimp Trawl,Pink Shrimp,CA,0,130.365,1183.496,11.02,2,7,82,0,0,0,0,NA,NA
+2009,Shrimp Trawl,Pink Shrimp,OR,0,751.198,10048.692,7.48,34,52,672,0,0,0,0,NA,NA
+2009,Shrimp Trawl,Pink Shrimp,WA,NA,NA,3179.981,0,0,0,0,NA,NA,NA,NA,NA,NA
+2010,Shrimp Trawl,Pink Shrimp,CA,0,265.531,1770.866,14.99,8,14,134,0,0,0,0,NA,NA
+2010,Shrimp Trawl,Pink Shrimp,OR,0,1706.84,14290.374,11.94,39,94,1233,0,0,0,0,NA,NA
+2010,Shrimp Trawl,Pink Shrimp,WA,0,399.484,4295.597,9.3,7,18,341,0,0,0,0,NA,NA
+2011,Shrimp Trawl,Pink Shrimp,CA,0,420.595,3332.921,12.62,8,19,203,0,0,0,0,NA,NA
+2011,Shrimp Trawl,Pink Shrimp,OR,0,2985.964,21915.059,13.63,41,132,1892,0,0,0,0,NA,NA
+2011,Shrimp Trawl,Pink Shrimp,WA,0,697.238,4312.136,16.17,11,35,578,0,0,0,0,NA,NA
+2012,Shrimp Trawl,Pink Shrimp,CA,0,347.598,2790.618,12.46,7,15,175,0,0,0,0,NA,NA
+2012,Shrimp Trawl,Pink Shrimp,OR,0,3014.219,22291.595,13.52,52,154,2122,0,0,0,0,NA,NA
+2012,Shrimp Trawl,Pink Shrimp,WA,0,625.952,4239.401,14.77,10,31,522,0,0,0,0,NA,NA
+2013,Shrimp Trawl,Pink Shrimp,CA,0,359.77,3915.307,9.19,10,17,188,0,0,0,0,NA,NA
+2013,Shrimp Trawl,Pink Shrimp,OR,0,2313.243,21537.788,10.74,46,107,1403,0,0,0,0,NA,NA
+2013,Shrimp Trawl,Pink Shrimp,WA,0,626.823,6157.857,10.18,13,29,386,0,0,0,0,NA,NA
+2014,Shrimp Trawl,Pink Shrimp,CA,0,597.53,3844.99,15.54,11,26,337,0,0,0,0,NA,NA
+2014,Shrimp Trawl,Pink Shrimp,OR,0,2272.045,23573.299,9.64,38,106,1445,0,0,0,0,NA,NA
+2014,Shrimp Trawl,Pink Shrimp,WA,0,967.648,13876.247,6.97,17,43,394,0,0,0,0,NA,NA
+2015,Shrimp Trawl,Pink Shrimp,CA,0,334.66,3452.948,9.69,9,23,335,0,0,0,0,NA,NA
+2015,Shrimp Trawl,Pink Shrimp,OR,0,2267.036,24273.617,9.34,41,129,1973,0,0,0,0,NA,NA
+2015,Shrimp Trawl,Pink Shrimp,WA,0,2138.297,18682.339,11.45,24,100,1453,0,0,0,0,NA,NA
+2016,Shrimp Trawl,Pink Shrimp,CA,0,311.723,1370.223,22.75,11,28,405,0,0,0,0,NA,NA
+2016,Shrimp Trawl,Pink Shrimp,OR,0,2305.924,16115.58,14.31,54,156,2466,0,0,0,0,NA,NA
+2016,Shrimp Trawl,Pink Shrimp,WA,0,1107.781,6395.865,17.32,17,59,972,0,0,0,0,NA,NA
+2017,Shrimp Trawl,Pink Shrimp,CA,0,241.8,1510.023,16.01,11,18,257,0,0,0,0,NA,NA
+2017,Shrimp Trawl,Pink Shrimp,OR,0,1454.896,10458.623,13.91,45,112,1622,0,0,0,0,NA,NA
+2017,Shrimp Trawl,Pink Shrimp,WA,0,592.624,3040.626,19.49,16,48,914,1,0.11,0,0,-0,0.001
+2018,Shrimp Trawl,Pink Shrimp,CA,0,365.187,2288.426,15.96,12,32,491,0,0,0,0,NA,NA
+2018,Shrimp Trawl,Pink Shrimp,OR,0,2124.356,16212.358,13.1,53,128,2283,0,0,0,0,NA,NA
+2018,Shrimp Trawl,Pink Shrimp,WA,0,621.9,3832.791,16.23,13,44,719,0,0,0,0,NA,NA
+2019,Shrimp Trawl,Pink Shrimp,CA,0,204.239,1133.424,18.02,11,23,309,0,0,0,0,NA,NA
+2019,Shrimp Trawl,Pink Shrimp,OR,0,1853.723,12179.857,15.22,57,143,2480,0,0,0,0,NA,NA
+2019,Shrimp Trawl,Pink Shrimp,WA,0,524.637,4166.139,12.59,13,36,627,0,0,0,0,NA,NA
+2020,Shrimp Trawl,Pink Shrimp,CA,0,152.735,355.591,42.95,3,11,106,0,0,0,0,NA,NA
+2020,Shrimp Trawl,Pink Shrimp,OR,0,657.626,19564.925,3.36,21,39,511,0,0,0,0,NA,NA
+2020,Shrimp Trawl,Pink Shrimp,WA,0,376.837,6288.242,5.99,8,20,303,0,0,0,0,NA,NA
+2021,Shrimp Trawl,Pink Shrimp,OR,0,1117.131,18708.685,5.97,25,53,597,0,0,0,0,NA,NA
+2021,Shrimp Trawl,Pink Shrimp,WA,0,457.777,9033.562,5.07,8,21,294,0,0,0,0,NA,NA
+2021,Shrimp Trawl,Pink Shrimp,CA,0,34.377,NA,0,2,2,17,0,0,0,NA,NA,NA
+2002,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,209,0,0,0,0,NA,NA,NA,NA,NA,NA
+2003,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,225.331,0,0,0,0,NA,NA,NA,NA,NA,NA
+2004,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,25.329,0,0,0,0,NA,NA,NA,NA,NA,NA
+2005,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,25.549,0,0,0,0,NA,NA,NA,NA,NA,NA
+2006,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,72.392,0,0,0,0,NA,NA,NA,NA,NA,NA
+2007,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,121.821,0,0,0,0,NA,NA,NA,NA,NA,NA
+2008,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,227.925,0,0,0,0,NA,NA,NA,NA,NA,NA
+2009,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,227.745,0,0,0,0,NA,NA,NA,NA,NA,NA
+2010,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,93.358,0,0,0,0,NA,NA,NA,NA,NA,NA
+2011,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,87.622,0,0,0,0,NA,NA,NA,NA,NA,NA
+2012,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,99.065,0,0,0,0,NA,NA,NA,NA,NA,NA
+2013,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,60.214,0,0,0,0,NA,NA,NA,NA,NA,NA
+2014,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,252.308,0,0,0,0,NA,NA,NA,NA,NA,NA
+2015,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,382.834,0,0,0,0,NA,NA,NA,NA,NA,NA
+2016,Shrimp Trawl,Ridgeback Prawn,CA,NA,NA,206.949,0,0,0,0,NA,NA,NA,NA,NA,NA
+2017,Shrimp Trawl,Ridgeback Prawn,CA,0.005,17.026,170.657,9.98,9,63,296,1,0.34,2.8e-4,0.047,0.005,0.14
+2018,Shrimp Trawl,Ridgeback Prawn,CA,0,5.097,165.461,3.08,4,21,131,0,0,0,0,NA,NA
+2019,Shrimp Trawl,Ridgeback Prawn,CA,0,7.105,182.636,3.89,5,18,83,0,0,0,0,NA,NA
+2020,Shrimp Trawl,Ridgeback Prawn,CA,0,10.119,183.241,5.52,4,22,112,0,0,0,0,NA,NA
+2021,Shrimp Trawl,Ridgeback Prawn,CA,0,1.538,126.503,1.22,2,4,35,0,0,0,0,NA,NA

@@ -1,0 +1,987 @@
+Year,State,NMFS Name,Pounds,Metric Tons,Dollars,Confidentiality,Collection,Scientific Name,Tsn,Source
+2024,CALIFORNIA,"SHARK, LEOPARD","3,968",1.8,"8,955",Public,Commercial,Triakis semifasciata,,PACFIN
+2024,CALIFORNIA,"SHARK, TOPE","9,700",4.4,"18,472",Public,Commercial,Galeorhinus galeus,,PACFIN
+2024,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,,PACFIN
+2024,CALIFORNIA,"SHARK, MAKO, SHORTFIN","16,314",7.4,"27,487",Public,Commercial,Isurus oxyrinchus,,PACFIN
+2024,CALIFORNIA,"SHARK, THRESHER","37,258",16.9,"64,923",Public,Commercial,Alopias vulpinus,,PACFIN
+2024,CALIFORNIA,"SHARK, PACIFIC ANGEL","17,857",8.1,"49,773",Public,Commercial,Squatina californica,,PACFIN
+2024,CALIFORNIA,"SHARK, THRESHER, BIGEYE",,,,Confidential,Commercial,Alopias superciliosus,,PACFIN
+2024,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","3,527",1.6,"3,845",Public,Commercial,Chondrichthyes,,PACFIN
+2024,OREGON,"SHARK, TOPE","1,102",0.5,,Public,Commercial,Galeorhinus galeus,,PACFIN
+2024,OREGON,"SHARK, BLUE","2,205",1,,Public,Commercial,Prionace glauca,,PACFIN
+2024,OREGON,"SHARK, MAKO, SHORTFIN",,,,Confidential,Commercial,Isurus oxyrinchus,,PACFIN
+2024,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,,PACFIN
+2024,OREGON,"SHARK, BROWN CAT","26,896",12.2,,Public,Commercial,Arpisturus brunneus,,PACFIN
+2024,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,,PACFIN
+2023,CALIFORNIA,"SHARK, BLUE",409,0,370,Public,Commercial,Prionace glauca,160424,PACFIN
+2023,CALIFORNIA,"SHARK, DOGFISH, SPINY","2,620",1,"2,445",Public,Commercial,Squalus acanthias,160617,PACFIN
+2023,CALIFORNIA,"SHARK, LEOPARD","3,471",2,"2,963",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2023,CALIFORNIA,"SHARK, MAKO, SHORTFIN","27,676",13,"29,544",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2023,CALIFORNIA,"SHARK, PACIFIC ANGEL","32,791",15,"32,459",Public,Commercial,Squatina californica,160785,PACFIN
+2023,CALIFORNIA,"SHARK, THRESHER","67,916",31,"54,197",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2023,CALIFORNIA,"SHARK, THRESHER, BIGEYE","1,760",1,"2,405",Public,Commercial,Alopias superciliosus,159921,PACFIN
+2023,CALIFORNIA,"SHARK, TOPE","11,826",5,"12,592",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2023,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","4,568",2,"5,771",Public,Commercial,Chondrichthyes,159785,PACFIN
+2023,OREGON,"SHARK, BLUE","3,951",2,3,Public,Commercial,Prionace glauca,160424,PACFIN
+2023,OREGON,"SHARK, BROWN CAT","19,856",9,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2023,OREGON,"SHARK, DOGFISH, SPINY","285,439",129,111,Public,Commercial,Squalus acanthias,160617,PACFIN
+2023,OREGON,"SHARK, MAKO, SHORTFIN",,,,Confidential,Commercial,Isurus oxyrinchus,159924,PACFIN
+2023,OREGON,"SHARK, TOPE","1,440",1,,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2023,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","2,762",1,74,Public,Commercial,Chondrichthyes,159785,PACFIN
+2023,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2023,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2023,WASHINGTON,"SHARK, DOGFISH, SPINY",,,,Confidential,Commercial,Squalus acanthias,160617,PACFIN
+2023,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2023,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2023,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2022,CALIFORNIA,"SHARK, BLUE",374,0,353,Public,Commercial,Prionace glauca,160424,PACFIN
+2022,CALIFORNIA,"SHARK, DOGFISH, SPINY","3,287",1,"2,488",Public,Commercial,Squalus acanthias,160617,PACFIN
+2022,CALIFORNIA,"SHARK, LEOPARD","6,753",3,"6,365",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2022,CALIFORNIA,"SHARK, MAKO, SHORTFIN","12,845",6,"13,700",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2022,CALIFORNIA,"SHARK, PACIFIC ANGEL","44,100",20,"33,711",Public,Commercial,Squatina californica,160785,PACFIN
+2022,CALIFORNIA,"SHARK, THRESHER","97,627",44,"71,128",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2022,CALIFORNIA,"SHARK, THRESHER, BIGEYE",,,,Confidential,Commercial,Alopias superciliosus,159921,PACFIN
+2022,CALIFORNIA,"SHARK, TOPE","25,268",11,"18,457",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2022,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","7,406",3,"3,245",Public,Commercial,Chondrichthyes,159785,PACFIN
+2022,CALIFORNIA,"SHARKS, THRESHER **",,,,Confidential,Commercial,Alopias,159915,PACFIN
+2022,OREGON,"SHARK, BLUE","4,516",2,239,Public,Commercial,Prionace glauca,160424,PACFIN
+2022,OREGON,"SHARK, BROWN CAT","13,845",6,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2022,OREGON,"SHARK, DOGFISH, SPINY","160,081",73,123,Public,Commercial,Squalus acanthias,160617,PACFIN
+2022,OREGON,"SHARK, MAKO, SHORTFIN",238,0,899,Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2022,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2022,OREGON,"SHARK, TOPE",652,0,,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2022,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,447",1,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2022,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2022,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2022,WASHINGTON,"SHARK, DOGFISH, SPINY",,,,Confidential,Commercial,Squalus acanthias,160617,PACFIN
+2022,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2022,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2021,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2021,CALIFORNIA,"SHARK, DOGFISH, SPINY","1,126",1,649,Public,Commercial,Squalus acanthias,160617,PACFIN
+2021,CALIFORNIA,"SHARK, LEOPARD","10,098",5,"8,694",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2021,CALIFORNIA,"SHARK, MAKO, SHORTFIN","25,251",11,"20,841",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2021,CALIFORNIA,"SHARK, PACIFIC ANGEL","52,286",24,"33,838",Public,Commercial,Squatina californica,160785,PACFIN
+2021,CALIFORNIA,"SHARK, THRESHER","73,151",33,"57,340",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2021,CALIFORNIA,"SHARK, THRESHER, BIGEYE",,,,Confidential,Commercial,Alopias superciliosus,159921,PACFIN
+2021,CALIFORNIA,"SHARK, TOPE","33,250",15,"20,824",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2021,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","6,009",3,"5,012",Public,Commercial,Chondrichthyes,159785,PACFIN
+2021,CALIFORNIA,"SHARKS, THRESHER **",,,,Confidential,Commercial,Alopias,159915,PACFIN
+2021,OREGON,"SHARK, BLUE","2,580",1,130,Public,Commercial,Prionace glauca,160424,PACFIN
+2021,OREGON,"SHARK, BROWN CAT","1,730",1,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2021,OREGON,"SHARK, DOGFISH, SPINY","19,598",9,268,Public,Commercial,Squalus acanthias,160617,PACFIN
+2021,OREGON,"SHARK, MAKO, SHORTFIN",179,0,296,Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2021,OREGON,"SHARK, THRESHER","1,188",1,,Public,Commercial,Alopias vulpinus,159916,PACFIN
+2021,OREGON,"SHARK, TOPE",956,0,,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2021,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","2,868",1,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2021,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2021,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2021,WASHINGTON,"SHARK, DOGFISH, SPINY","81,979",37,458,Public,Commercial,Squalus acanthias,160617,PACFIN
+2021,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2021,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2021,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2020,CALIFORNIA,"SHARK, DOGFISH, SPINY","1,895",1,"5,421",Public,Commercial,Squalus acanthias,160617,PACFIN
+2020,CALIFORNIA,"SHARK, LEOPARD","6,506",3,"5,939",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2020,CALIFORNIA,"SHARK, MAKO, SHORTFIN","37,132",17,"23,716",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2020,CALIFORNIA,"SHARK, PACIFIC ANGEL","88,771",40,"57,866",Public,Commercial,Squatina californica,160785,PACFIN
+2020,CALIFORNIA,"SHARK, THRESHER","134,840",61,"92,577",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2020,CALIFORNIA,"SHARK, THRESHER, BIGEYE","3,204",1,"2,248",Public,Commercial,Alopias superciliosus,159921,PACFIN
+2020,CALIFORNIA,"SHARK, TOPE","30,015",14,"21,031",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2020,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","4,301",2,"1,157",Public,Commercial,Chondrichthyes,159785,PACFIN
+2020,CALIFORNIA,"SHARKS, THRESHER **",,,,Confidential,Commercial,Alopias,159915,PACFIN
+2020,OREGON,"SHARK, BLUE","4,726",2,192,Public,Commercial,Prionace glauca,160424,PACFIN
+2020,OREGON,"SHARK, BROWN CAT","2,341",1,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2020,OREGON,"SHARK, DOGFISH, SPINY","174,965",79,264,Public,Commercial,Squalus acanthias,160617,PACFIN
+2020,OREGON,"SHARK, MAKO, SHORTFIN",,,,Confidential,Commercial,Isurus oxyrinchus,159924,PACFIN
+2020,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2020,OREGON,"SHARK, TOPE","1,560",1,,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2020,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","6,221",3,7,Public,Commercial,Chondrichthyes,159785,PACFIN
+2020,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2020,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2020,WASHINGTON,"SHARK, DOGFISH, SPINY","267,332",121,100,Public,Commercial,Squalus acanthias,160617,PACFIN
+2020,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2020,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2019,CALIFORNIA,"SHARK, BLUE","21,098",10,"4,531",Public,Commercial,Prionace glauca,160424,PACFIN
+2019,CALIFORNIA,"SHARK, DOGFISH, SPINY","8,803",4,"2,343",Public,Commercial,Squalus acanthias,160617,PACFIN
+2019,CALIFORNIA,"SHARK, LEOPARD","10,016",5,"9,277",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2019,CALIFORNIA,"SHARK, MAKO, SHORTFIN","74,518",34,"55,185",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2019,CALIFORNIA,"SHARK, PACIFIC ANGEL","69,018",31,"48,966",Public,Commercial,Squatina californica,160785,PACFIN
+2019,CALIFORNIA,"SHARK, THRESHER","124,606",57,"84,248",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2019,CALIFORNIA,"SHARK, THRESHER, BIGEYE","1,552",1,868,Public,Commercial,Alopias superciliosus,159921,PACFIN
+2019,CALIFORNIA,"SHARK, TOPE","22,264",10,"17,869",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2019,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","12,277",6,"5,494",Public,Commercial,Chondrichthyes,159785,PACFIN
+2019,CALIFORNIA,"SHARKS, THRESHER **","9,838",4,"8,183",Public,Commercial,Alopias,159915,PACFIN
+2019,OREGON,"SHARK, BLUE","8,402",4,141,Public,Commercial,Prionace glauca,160424,PACFIN
+2019,OREGON,"SHARK, BROWN CAT","3,000",1,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2019,OREGON,"SHARK, DOGFISH, SPINY","600,484",272,753,Public,Commercial,Squalus acanthias,160617,PACFIN
+2019,OREGON,"SHARK, MAKO, SHORTFIN",183,0,466,Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2019,OREGON,"SHARK, THRESHER","1,198",1,329,Public,Commercial,Alopias vulpinus,159916,PACFIN
+2019,OREGON,"SHARK, TOPE",760,0,,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2019,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","3,446",2,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2019,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2019,WASHINGTON,"SHARK, DOGFISH, SPINY","344,355",156,258,Public,Commercial,Squalus acanthias,160617,PACFIN
+2019,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2019,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2019,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",699,0,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2018,CALIFORNIA,"SHARK, DOGFISH, SPINY","16,728",8,"3,205",Public,Commercial,Squalus acanthias,160617,PACFIN
+2018,CALIFORNIA,"SHARK, LEOPARD","9,165",4,"9,616",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2018,CALIFORNIA,"SHARK, MAKO, SHORTFIN","64,134",29,"52,187",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2018,CALIFORNIA,"SHARK, PACIFIC ANGEL","72,342",33,"51,285",Public,Commercial,Squatina californica,160785,PACFIN
+2018,CALIFORNIA,"SHARK, THRESHER","98,788",45,"73,384",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2018,CALIFORNIA,"SHARK, THRESHER, BIGEYE",,,,Confidential,Commercial,Alopias superciliosus,159921,PACFIN
+2018,CALIFORNIA,"SHARK, TOPE","18,812",9,"21,370",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2018,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","4,570",2,"2,756",Public,Commercial,Chondrichthyes,159785,PACFIN
+2018,CALIFORNIA,"SHARKS, THRESHER **",393,0,322,Public,Commercial,Alopias,159915,PACFIN
+2018,OREGON,"SHARK, BLUE","4,957",2,162,Public,Commercial,Prionace glauca,160424,PACFIN
+2018,OREGON,"SHARK, BROWN CAT","5,694",3,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2018,OREGON,"SHARK, DOGFISH, SPINY","348,713",158,353,Public,Commercial,Squalus acanthias,160617,PACFIN
+2018,OREGON,"SHARK, MAKO, SHORTFIN",302,0,561,Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2018,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2018,OREGON,"SHARK, TOPE","1,343",1,,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2018,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","4,619",2,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2018,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2018,WASHINGTON,"SHARK, DOGFISH, SPINY","666,069",302,524,Public,Commercial,Squalus acanthias,160617,PACFIN
+2018,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2018,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2018,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,744",1,185,Public,Commercial,Chondrichthyes,159785,PACFIN
+2017,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2017,CALIFORNIA,"SHARK, DOGFISH, SPINY","4,698",2,986,Public,Commercial,Squalus acanthias,160617,PACFIN
+2017,CALIFORNIA,"SHARK, LEOPARD","9,719",4,"7,916",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2017,CALIFORNIA,"SHARK, MAKO, SHORTFIN","83,984",38,"69,905",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2017,CALIFORNIA,"SHARK, PACIFIC ANGEL","42,052",19,"31,244",Public,Commercial,Squatina californica,160785,PACFIN
+2017,CALIFORNIA,"SHARK, THRESHER","144,849",66,"106,391",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2017,CALIFORNIA,"SHARK, THRESHER, BIGEYE","3,601",2,"3,856",Public,Commercial,Alopias superciliosus,159921,PACFIN
+2017,CALIFORNIA,"SHARK, TOPE","14,148",6,"14,069",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2017,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","7,443",3,"4,944",Public,Commercial,Chondrichthyes,159785,PACFIN
+2017,CALIFORNIA,"SHARKS, THRESHER **",,,,Confidential,Commercial,Alopias,159915,PACFIN
+2017,OREGON,"SHARK, BLUE","1,807",1,,Public,Commercial,Prionace glauca,160424,PACFIN
+2017,OREGON,"SHARK, BROWN CAT","1,584",1,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2017,OREGON,"SHARK, DOGFISH, SPINY","128,915",58,985,Public,Commercial,Squalus acanthias,160617,PACFIN
+2017,OREGON,"SHARK, MAKO, SHORTFIN",,,,Confidential,Commercial,Isurus oxyrinchus,159924,PACFIN
+2017,OREGON,"SHARK, THRESHER",326,0,134,Public,Commercial,Alopias vulpinus,159916,PACFIN
+2017,OREGON,"SHARK, TOPE",521,0,34,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2017,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","2,507",1,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2017,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2017,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2017,WASHINGTON,"SHARK, DOGFISH, SPINY","203,896",92,"47,868",Public,Commercial,Squalus acanthias,160617,PACFIN
+2017,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2017,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2017,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","3,073",1,894,Public,Commercial,Chondrichthyes,159785,PACFIN
+2016,CALIFORNIA,"SHARK, DOGFISH, SPINY","1,346",1,438,Public,Commercial,Squalus acanthias,160617,PACFIN
+2016,CALIFORNIA,"SHARK, LEOPARD","12,406",6,"11,222",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2016,CALIFORNIA,"SHARK, MAKO, SHORTFIN","65,539",30,"55,298",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2016,CALIFORNIA,"SHARK, PACIFIC ANGEL","41,338",19,"29,570",Public,Commercial,Squatina californica,160785,PACFIN
+2016,CALIFORNIA,"SHARK, THRESHER","108,974",49,"87,167",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2016,CALIFORNIA,"SHARK, THRESHER, BIGEYE","3,031",1,"2,616",Public,Commercial,Alopias superciliosus,159921,PACFIN
+2016,CALIFORNIA,"SHARK, TOPE","10,816",5,"10,069",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2016,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","7,549",3,"3,314",Public,Commercial,Chondrichthyes,159785,PACFIN
+2016,CALIFORNIA,"SHARKS, THRESHER **",765,0,366,Public,Commercial,Alopias,159915,PACFIN
+2016,OREGON,"SHARK, BLUE",155,0,,Public,Commercial,Prionace glauca,160424,PACFIN
+2016,OREGON,"SHARK, BROWN CAT","11,775",5,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2016,OREGON,"SHARK, DOGFISH, SPINY","210,108",95,91,Public,Commercial,Squalus acanthias,160617,PACFIN
+2016,OREGON,"SHARK, MAKO, SHORTFIN",652,0,"1,064",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2016,OREGON,"SHARK, TOPE",518,0,,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2016,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,087",0,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2016,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2016,WASHINGTON,"SHARK, DOGFISH, SPINY","505,578",229,"125,263",Public,Commercial,Squalus acanthias,160617,PACFIN
+2016,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2016,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2016,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","2,137",1,374,Public,Commercial,Chondrichthyes,159785,PACFIN
+2015,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2015,CALIFORNIA,"SHARK, BROWN CAT",,,,Confidential,Commercial,Arpisturus brunneus,159988,PACFIN
+2015,CALIFORNIA,"SHARK, DOGFISH, SPINY","9,520",4,"2,934",Public,Commercial,Squalus acanthias,160617,PACFIN
+2015,CALIFORNIA,"SHARK, LEOPARD","9,316",4,"10,745",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2015,CALIFORNIA,"SHARK, MAKO, SHORTFIN","44,379",20,"41,288",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2015,CALIFORNIA,"SHARK, PACIFIC ANGEL","30,245",14,"22,742",Public,Commercial,Squatina californica,160785,PACFIN
+2015,CALIFORNIA,"SHARK, THRESHER","126,524",57,"93,576",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2015,CALIFORNIA,"SHARK, THRESHER, BIGEYE","2,492",1,"2,178",Public,Commercial,Alopias superciliosus,159921,PACFIN
+2015,CALIFORNIA,"SHARK, TOPE","6,355",3,"6,247",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2015,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","14,903",7,"9,072",Public,Commercial,Chondrichthyes,159785,PACFIN
+2015,CALIFORNIA,"SHARKS, THRESHER **","5,768",3,"3,590",Public,Commercial,Alopias,159915,PACFIN
+2015,OREGON,"SHARK, BLUE","1,119",1,84,Public,Commercial,Prionace glauca,160424,PACFIN
+2015,OREGON,"SHARK, BROWN CAT","16,980",8,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2015,OREGON,"SHARK, DOGFISH, SPINY","170,291",77,247,Public,Commercial,Squalus acanthias,160617,PACFIN
+2015,OREGON,"SHARK, MAKO, SHORTFIN",,,,Confidential,Commercial,Isurus oxyrinchus,159924,PACFIN
+2015,OREGON,"SHARK, TOPE",136,0,,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2015,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","3,713",2,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2015,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2015,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2015,WASHINGTON,"SHARK, DOGFISH, SPINY","683,939",310,"146,917",Public,Commercial,Squalus acanthias,160617,PACFIN
+2015,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2015,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2015,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","9,180",4,181,Public,Commercial,Chondrichthyes,159785,PACFIN
+2014,CALIFORNIA,"SHARK, DOGFISH, SPINY","95,873",43,"32,814",Public,Commercial,Squalus acanthias,160617,PACFIN
+2014,CALIFORNIA,"SHARK, LEOPARD","5,891",3,"6,928",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2014,CALIFORNIA,"SHARK, MAKO, SHORTFIN","54,397",25,"48,763",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2014,CALIFORNIA,"SHARK, PACIFIC ANGEL","17,822",8,"12,958",Public,Commercial,Squatina californica,160785,PACFIN
+2014,CALIFORNIA,"SHARK, THRESHER","87,976",40,"69,366",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2014,CALIFORNIA,"SHARK, THRESHER, BIGEYE",,,,Confidential,Commercial,Alopias superciliosus,159921,PACFIN
+2014,CALIFORNIA,"SHARK, TOPE","4,504",2,"3,689",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2014,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","9,600",4,"5,609",Public,Commercial,Chondrichthyes,159785,PACFIN
+2014,CALIFORNIA,"SHARKS, THRESHER **","13,865",6,"9,699",Public,Commercial,Alopias,159915,PACFIN
+2014,OREGON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2014,OREGON,"SHARK, BROWN CAT","3,083",1,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2014,OREGON,"SHARK, DOGFISH, SPINY","83,154",38,136,Public,Commercial,Squalus acanthias,160617,PACFIN
+2014,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2014,OREGON,"SHARK, TOPE",497,0,,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2014,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",977,0,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2014,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2014,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2014,WASHINGTON,"SHARK, DOGFISH, SPINY","323,457",147,"114,401",Public,Commercial,Squalus acanthias,160617,PACFIN
+2014,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2014,WASHINGTON,"SHARK, TOPE",280,0,,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2014,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","4,233",2,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2013,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2013,CALIFORNIA,"SHARK, DOGFISH, SPINY","2,112",1,906,Public,Commercial,Squalus acanthias,160617,PACFIN
+2013,CALIFORNIA,"SHARK, LEOPARD","2,505",1,"2,306",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2013,CALIFORNIA,"SHARK, MAKO, SHORTFIN","67,442",31,"60,974",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2013,CALIFORNIA,"SHARK, PACIFIC ANGEL","24,164",11,"14,697",Public,Commercial,Squatina californica,160785,PACFIN
+2013,CALIFORNIA,"SHARK, THRESHER","156,836",71,"124,046",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2013,CALIFORNIA,"SHARK, THRESHER, BIGEYE","1,272",1,655,Public,Commercial,Alopias superciliosus,159921,PACFIN
+2013,CALIFORNIA,"SHARK, TOPE","3,108",1,"3,012",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2013,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","4,304",2,"2,182",Public,Commercial,Chondrichthyes,159785,PACFIN
+2013,CALIFORNIA,"SHARKS, THRESHER **",,,,Confidential,Commercial,Alopias,159915,PACFIN
+2013,OREGON,"SHARK, BLUE",206,0,14,Public,Commercial,Prionace glauca,160424,PACFIN
+2013,OREGON,"SHARK, BROWN CAT","2,816",1,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2013,OREGON,"SHARK, DOGFISH, SPINY","65,957",30,602,Public,Commercial,Squalus acanthias,160617,PACFIN
+2013,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2013,OREGON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2013,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,672",1,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2013,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2013,WASHINGTON,"SHARK, DOGFISH, SPINY","284,967",129,"75,947",Public,Commercial,Squalus acanthias,160617,PACFIN
+2013,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2012,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2012,CALIFORNIA,"SHARK, DOGFISH, SPINY","2,081",1,539,Public,Commercial,Squalus acanthias,160617,PACFIN
+2012,CALIFORNIA,"SHARK, LEOPARD","6,461",3,"5,569",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2012,CALIFORNIA,"SHARK, MAKO, SHORTFIN","59,497",27,"52,361",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2012,CALIFORNIA,"SHARK, PACIFIC ANGEL","22,884",10,"14,220",Public,Commercial,Squatina californica,160785,PACFIN
+2012,CALIFORNIA,"SHARK, THRESHER","146,069",66,"113,199",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2012,CALIFORNIA,"SHARK, THRESHER, BIGEYE",,,,Confidential,Commercial,Alopias superciliosus,159921,PACFIN
+2012,CALIFORNIA,"SHARK, TOPE","2,953",1,"2,381",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2012,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","7,006",3,"6,340",Public,Commercial,Chondrichthyes,159785,PACFIN
+2012,CALIFORNIA,"SHARKS, THRESHER **",,,,Confidential,Commercial,Alopias,159915,PACFIN
+2012,OREGON,"SHARK, BLUE",415,0,9,Public,Commercial,Prionace glauca,160424,PACFIN
+2012,OREGON,"SHARK, BROWN CAT","31,880",14,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2012,OREGON,"SHARK, DOGFISH, SPINY","296,789",135,"15,601",Public,Commercial,Squalus acanthias,160617,PACFIN
+2012,OREGON,"SHARK, MAKO, SHORTFIN",597,0,164,Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2012,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2012,OREGON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2012,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",965,0,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2012,WASHINGTON,"SHARK, DOGFISH, SPINY","175,757",80,"27,472",Public,Commercial,Squalus acanthias,160617,PACFIN
+2012,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2012,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2012,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2011,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2011,CALIFORNIA,"SHARK, BROWN CAT",,,,Confidential,Commercial,Arpisturus brunneus,159988,PACFIN
+2011,CALIFORNIA,"SHARK, DOGFISH, SPINY","1,131",1,117,Public,Commercial,Squalus acanthias,160617,PACFIN
+2011,CALIFORNIA,"SHARK, LEOPARD","5,219",2,"4,509",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2011,CALIFORNIA,"SHARK, MAKO, SHORTFIN","42,347",19,"38,175",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2011,CALIFORNIA,"SHARK, PACIFIC ANGEL","22,943",10,"15,121",Public,Commercial,Squatina californica,160785,PACFIN
+2011,CALIFORNIA,"SHARK, THRESHER","167,899",76,"102,387",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2011,CALIFORNIA,"SHARK, THRESHER, BIGEYE",,,,Confidential,Commercial,Alopias superciliosus,159921,PACFIN
+2011,CALIFORNIA,"SHARK, TOPE","5,746",3,"4,629",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2011,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","3,683",2,"2,610",Public,Commercial,Chondrichthyes,159785,PACFIN
+2011,CALIFORNIA,"SHARKS, THRESHER **",,,,Confidential,Commercial,Alopias,159915,PACFIN
+2011,OREGON,"SHARK, BLUE",226,0,15,Public,Commercial,Prionace glauca,160424,PACFIN
+2011,OREGON,"SHARK, BROWN CAT","7,627",3,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2011,OREGON,"SHARK, DOGFISH, SPINY","428,432",194,"45,756",Public,Commercial,Squalus acanthias,160617,PACFIN
+2011,OREGON,"SHARK, MAKO, SHORTFIN",,,,Confidential,Commercial,Isurus oxyrinchus,159924,PACFIN
+2011,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2011,OREGON,"SHARK, TOPE","1,090",0,44,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2011,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","2,925",1,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2011,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2011,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2011,WASHINGTON,"SHARK, DOGFISH, SPINY","471,683",214,"136,096",Public,Commercial,Squalus acanthias,160617,PACFIN
+2011,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2011,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","3,645",2,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2010,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2010,CALIFORNIA,"SHARK, DOGFISH, SPINY","12,362",6,"5,046",Public,Commercial,Squalus acanthias,160617,PACFIN
+2010,CALIFORNIA,"SHARK, LEOPARD","7,248",3,"6,146",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2010,CALIFORNIA,"SHARK, MAKO, SHORTFIN","47,785",22,"32,378",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2010,CALIFORNIA,"SHARK, PACIFIC ANGEL","19,539",9,"12,433",Public,Commercial,Squatina californica,160785,PACFIN
+2010,CALIFORNIA,"SHARK, THRESHER","210,817",96,"157,577",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2010,CALIFORNIA,"SHARK, THRESHER, BIGEYE",,,,Confidential,Commercial,Alopias superciliosus,159921,PACFIN
+2010,CALIFORNIA,"SHARK, TOPE","5,927",3,"5,860",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2010,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","8,674",4,"9,558",Public,Commercial,Chondrichthyes,159785,PACFIN
+2010,CALIFORNIA,"SHARKS, THRESHER **",,,,Confidential,Commercial,Alopias,159915,PACFIN
+2010,OREGON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2010,OREGON,"SHARK, BROWN CAT","24,850",11,,Public,Commercial,Arpisturus brunneus,159988,PACFIN
+2010,OREGON,"SHARK, DOGFISH, SPINY","276,621",125,"40,923",Public,Commercial,Squalus acanthias,160617,PACFIN
+2010,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2010,OREGON,"SHARK, TOPE",338,0,17,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2010,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","28,976",13,78,Public,Commercial,Chondrichthyes,159785,PACFIN
+2010,WASHINGTON,"SHARK, DOGFISH, SPINY","217,515",99,"9,580",Public,Commercial,Squalus acanthias,160617,PACFIN
+2010,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2010,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2010,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2009,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2009,CALIFORNIA,"SHARK, DOGFISH, SPINY","100,989",46,"39,271",Public,Commercial,Squalus acanthias,160617,PACFIN
+2009,CALIFORNIA,"SHARK, LEOPARD","4,596",2,"3,766",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2009,CALIFORNIA,"SHARK, MAKO, SHORTFIN","67,240",31,"54,780",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2009,CALIFORNIA,"SHARK, PACIFIC ANGEL","25,951",12,"16,182",Public,Commercial,Squatina californica,160785,PACFIN
+2009,CALIFORNIA,"SHARK, THRESHER","234,406",106,"197,044",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2009,CALIFORNIA,"SHARK, THRESHER, BIGEYE","16,228",7,"5,453",Public,Commercial,Alopias superciliosus,159921,PACFIN
+2009,CALIFORNIA,"SHARK, TOPE","9,902",4,"8,257",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2009,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","5,276",2,"7,178",Public,Commercial,Chondrichthyes,159785,PACFIN
+2009,CALIFORNIA,"SHARKS, THRESHER **",,,,Confidential,Commercial,Alopias,159915,PACFIN
+2009,OREGON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2009,OREGON,"SHARK, DOGFISH, SPINY","126,962",58,"33,507",Public,Commercial,Squalus acanthias,160617,PACFIN
+2009,OREGON,"SHARK, MAKO, SHORTFIN",,,,Confidential,Commercial,Isurus oxyrinchus,159924,PACFIN
+2009,OREGON,"SHARK, TOPE",225,0,8,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2009,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,190",1,2,Public,Commercial,Chondrichthyes,159785,PACFIN
+2009,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2009,WASHINGTON,"SHARK, DOGFISH, SPINY","385,711",175,"60,449",Public,Commercial,Squalus acanthias,160617,PACFIN
+2009,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2009,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2008,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2008,CALIFORNIA,"SHARK, DOGFISH, SPINY","98,269",45,"36,564",Public,Commercial,Squalus acanthias,160617,PACFIN
+2008,CALIFORNIA,"SHARK, LEOPARD","7,213",3,"6,101",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2008,CALIFORNIA,"SHARK, MAKO, SHORTFIN","77,362",35,"65,240",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2008,CALIFORNIA,"SHARK, PACIFIC ANGEL","26,395",12,"16,434",Public,Commercial,Squatina californica,160785,PACFIN
+2008,CALIFORNIA,"SHARK, THRESHER","324,473",147,"280,201",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2008,CALIFORNIA,"SHARK, THRESHER, BIGEYE","14,243",6,"5,459",Public,Commercial,Alopias superciliosus,159921,PACFIN
+2008,CALIFORNIA,"SHARK, TOPE","17,993",8,"12,559",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2008,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","6,313",3,"13,754",Public,Commercial,Chondrichthyes,159785,PACFIN
+2008,CALIFORNIA,"SHARKS, THRESHER **",,,,Confidential,Commercial,Alopias,159915,PACFIN
+2008,OREGON,"SHARK, BLUE",396,0,177,Public,Commercial,Prionace glauca,160424,PACFIN
+2008,OREGON,"SHARK, DOGFISH, SPINY","91,546",42,"33,055",Public,Commercial,Squalus acanthias,160617,PACFIN
+2008,OREGON,"SHARK, MAKO, SHORTFIN",,,,Confidential,Commercial,Isurus oxyrinchus,159924,PACFIN
+2008,OREGON,"SHARK, THRESHER",746,0,168,Public,Commercial,Alopias vulpinus,159916,PACFIN
+2008,OREGON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2008,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,203",1,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2008,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2008,WASHINGTON,"SHARK, DOGFISH, SPINY","1,443,978",655,"269,743",Public,Commercial,Squalus acanthias,160617,PACFIN
+2008,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2008,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2008,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2008,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,360",1,125,Public,Commercial,Chondrichthyes,159785,PACFIN
+2007,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2007,CALIFORNIA,"SHARK, DOGFISH, SPINY","27,951",13,"8,237",Public,Commercial,Squalus acanthias,160617,PACFIN
+2007,CALIFORNIA,"SHARK, LEOPARD","24,829",11,"20,092",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2007,CALIFORNIA,"SHARK, MAKO, SHORTFIN","98,182",45,"78,569",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2007,CALIFORNIA,"SHARK, PACIFIC ANGEL","18,016",8,"10,315",Public,Commercial,Squatina californica,160785,PACFIN
+2007,CALIFORNIA,"SHARK, THRESHER","448,373",203,"337,145",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2007,CALIFORNIA,"SHARK, THRESHER, BIGEYE","10,713",5,"4,334",Public,Commercial,Alopias superciliosus,159921,PACFIN
+2007,CALIFORNIA,"SHARK, TOPE","38,040",17,"26,427",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2007,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","8,814",4,"15,174",Public,Commercial,Chondrichthyes,159785,PACFIN
+2007,CALIFORNIA,"SHARKS, THRESHER **","3,837",2,"2,903",Public,Commercial,Alopias,159915,PACFIN
+2007,OREGON,"SHARK, BLUE",881,0,520,Public,Commercial,Prionace glauca,160424,PACFIN
+2007,OREGON,"SHARK, DOGFISH, SPINY","19,470",9,193,Public,Commercial,Squalus acanthias,160617,PACFIN
+2007,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2007,OREGON,"SHARK, TOPE",309,0,47,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2007,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","2,249",1,670,Public,Commercial,Chondrichthyes,159785,PACFIN
+2007,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2007,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2007,WASHINGTON,"SHARK, DOGFISH, SPINY","1,171,667",531,"243,555",Public,Commercial,Squalus acanthias,160617,PACFIN
+2007,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2007,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2007,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2007,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","3,071",1,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2006,CALIFORNIA,"SHARK, DOGFISH, SPINY","31,762",14,"19,419",Public,Commercial,Squalus acanthias,160617,PACFIN
+2006,CALIFORNIA,"SHARK, LEOPARD","24,686",11,"21,604",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2006,CALIFORNIA,"SHARK, MAKO, SHORTFIN","101,133",46,"79,416",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2006,CALIFORNIA,"SHARK, PACIFIC ANGEL","32,748",15,"18,384",Public,Commercial,Squatina californica,160785,PACFIN
+2006,CALIFORNIA,"SHARK, THRESHER","350,973",159,"300,785",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2006,CALIFORNIA,"SHARK, THRESHER, BIGEYE","9,540",4,"4,509",Public,Commercial,Alopias superciliosus,159921,PACFIN
+2006,CALIFORNIA,"SHARK, TOPE","62,654",28,"40,628",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2006,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","18,297",8,"21,902",Public,Commercial,Chondrichthyes,159785,PACFIN
+2006,CALIFORNIA,"SHARKS, THRESHER **",345,0,271,Public,Commercial,Alopias,159915,PACFIN
+2006,OREGON,"SHARK, BLUE",551,0,81,Public,Commercial,Prionace glauca,160424,PACFIN
+2006,OREGON,"SHARK, DOGFISH, SPINY","20,728",9,69,Public,Commercial,Squalus acanthias,160617,PACFIN
+2006,OREGON,"SHARK, MAKO, SHORTFIN",,,,Confidential,Commercial,Isurus oxyrinchus,159924,PACFIN
+2006,OREGON,"SHARK, THRESHER","1,476",1,670,Public,Commercial,Alopias vulpinus,159916,PACFIN
+2006,OREGON,"SHARK, TOPE","1,996",1,46,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2006,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,130",1,,Public,Commercial,Chondrichthyes,159785,PACFIN
+2006,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2006,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2006,WASHINGTON,"SHARK, DOGFISH, SPINY","1,097,334",498,"225,232",Public,Commercial,Squalus acanthias,160617,PACFIN
+2006,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2006,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2006,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2005,CALIFORNIA,"SHARK, DOGFISH, SPINY","16,871",8,"3,450",Public,Commercial,Squalus acanthias,160617,PACFIN
+2005,CALIFORNIA,"SHARK, LEOPARD","28,645",13,"19,997",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2005,CALIFORNIA,"SHARK, MAKO, SHORTFIN","73,432",33,"57,607",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2005,CALIFORNIA,"SHARK, PACIFIC ANGEL","25,496",12,"14,027",Public,Commercial,Squatina californica,160785,PACFIN
+2005,CALIFORNIA,"SHARK, THRESHER","392,771",178,"270,784",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2005,CALIFORNIA,"SHARK, THRESHER, BIGEYE","21,065",10,"6,234",Public,Commercial,Alopias superciliosus,159921,PACFIN
+2005,CALIFORNIA,"SHARK, TOPE","56,220",26,"34,778",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2005,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","18,020",8,"15,177",Public,Commercial,Chondrichthyes,159785,PACFIN
+2005,CALIFORNIA,"SHARKS, THRESHER **","1,008",0,588,Public,Commercial,Alopias,159915,PACFIN
+2005,OREGON,"SHARK, BLUE","1,663",1,235,Public,Commercial,Prionace glauca,160424,PACFIN
+2005,OREGON,"SHARK, DOGFISH, SPINY","8,608",4,983,Public,Commercial,Squalus acanthias,160617,PACFIN
+2005,OREGON,"SHARK, MAKO, SHORTFIN",,,,Confidential,Commercial,Isurus oxyrinchus,159924,PACFIN
+2005,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2005,OREGON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2005,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","3,294",1,12,Public,Commercial,Chondrichthyes,159785,PACFIN
+2005,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2005,WASHINGTON,"SHARK, DOGFISH, SPINY","1,195,525",542,"239,755",Public,Commercial,Squalus acanthias,160617,PACFIN
+2005,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2005,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2005,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2004,CALIFORNIA,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2004,CALIFORNIA,"SHARK, DOGFISH, SPINY","61,069",28,"36,153",Public,Commercial,Squalus acanthias,160617,PACFIN
+2004,CALIFORNIA,"SHARK, LEOPARD","25,264",11,"18,124",Public,Commercial,Triakis semifasciata,160448,PACFIN
+2004,CALIFORNIA,"SHARK, MAKO, SHORTFIN","119,961",54,"98,193",Public,Commercial,Isurus oxyrinchus,159924,PACFIN
+2004,CALIFORNIA,"SHARK, PACIFIC ANGEL","28,703",13,"15,330",Public,Commercial,Squatina californica,160785,PACFIN
+2004,CALIFORNIA,"SHARK, THRESHER","252,793",115,"196,950",Public,Commercial,Alopias vulpinus,159916,PACFIN
+2004,CALIFORNIA,"SHARK, THRESHER, BIGEYE","11,789",5,"4,060",Public,Commercial,Alopias superciliosus,159921,PACFIN
+2004,CALIFORNIA,"SHARK, TOPE","58,613",27,"39,814",Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2004,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","19,252",9,"8,200",Public,Commercial,Chondrichthyes,159785,PACFIN
+2004,CALIFORNIA,"SHARKS, THRESHER **","3,602",2,"2,500",Public,Commercial,Alopias,159915,PACFIN
+2004,OREGON,"SHARK, BLUE","1,059",0,395,Public,Commercial,Prionace glauca,160424,PACFIN
+2004,OREGON,"SHARK, DOGFISH, SPINY","10,146",5,43,Public,Commercial,Squalus acanthias,160617,PACFIN
+2004,OREGON,"SHARK, MAKO, SHORTFIN",,,,Confidential,Commercial,Isurus oxyrinchus,159924,PACFIN
+2004,OREGON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2004,OREGON,"SHARK, TOPE","1,880",1,60,Public,Commercial,Galeorhinus galeus,160181,PACFIN
+2004,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",357,0,1,Public,Commercial,Chondrichthyes,159785,PACFIN
+2004,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",,,,Confidential,Commercial,Chondrichthyes,159785,PACFIN
+2004,WASHINGTON,"SHARK, BLUE",,,,Confidential,Commercial,Prionace glauca,160424,PACFIN
+2004,WASHINGTON,"SHARK, DOGFISH, SPINY","1,071,649",486,"193,029",Public,Commercial,Squalus acanthias,160617,PACFIN
+2004,WASHINGTON,"SHARK, THRESHER",,,,Confidential,Commercial,Alopias vulpinus,159916,PACFIN
+2004,WASHINGTON,"SHARK, TOPE",,,,Confidential,Commercial,Galeorhinus galeus,160181,PACFIN
+2003,CALIFORNIA,"SHARK, DOGFISH, SPINY","25,147",11,"11,255",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2003,CALIFORNIA,"SHARK, LEOPARD","22,090",10,"15,757",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+2003,CALIFORNIA,"SHARK, MAKO, SHORTFIN","153,613",70,"115,376",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+2003,CALIFORNIA,"SHARK, PACIFIC ANGEL","38,132",17,"20,181",Public,Commercial,Squatina californica,160785,PACFINHIST
+2003,CALIFORNIA,"SHARK, THRESHER","671,508",305,"489,092",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+2003,CALIFORNIA,"SHARK, THRESHER, BIGEYE","12,589",6,"3,779",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+2003,CALIFORNIA,"SHARK, TOPE","78,806",36,"40,113",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+2003,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","11,056",5,"7,886",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+2003,OREGON,"SHARK, BLUE","1,570",1,781,Public,Commercial,Prionace glauca,160424,PACFINHIST
+2003,OREGON,"SHARK, DOGFISH, SPINY","18,898",9,"1,936",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2003,OREGON,"SHARK, TOPE",203,0,187,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+2003,WASHINGTON,"SHARK, DOGFISH, SPINY","1,414,164",641,"253,114",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2002,CALIFORNIA,"SHARK, BLUE","90,548",41,"18,352",Public,Commercial,Prionace glauca,160424,PACFINHIST
+2002,CALIFORNIA,"SHARK, DOGFISH, SPINY","36,420",17,"7,630",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2002,CALIFORNIA,"SHARK, LEOPARD","29,269",13,"23,533",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+2002,CALIFORNIA,"SHARK, MAKO, SHORTFIN","179,887",82,"123,933",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+2002,CALIFORNIA,"SHARK, PACIFIC ANGEL","48,192",22,"24,945",Public,Commercial,Squatina californica,160785,PACFINHIST
+2002,CALIFORNIA,"SHARK, THRESHER","667,007",303,"505,108",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+2002,CALIFORNIA,"SHARK, TOPE","70,076",32,"36,400",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+2002,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","16,601",8,"9,949",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+2002,OREGON,"SHARK, BLUE",833,0,371,Public,Commercial,Prionace glauca,160424,PACFINHIST
+2002,OREGON,"SHARK, DOGFISH, SPINY","33,424",15,"4,795",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2002,OREGON,"SHARK, TOPE",358,0,329,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+2002,WASHINGTON,"SHARK, DOGFISH, SPINY","2,148,200",974,"380,819",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2002,WASHINGTON,"SHARK, TOPE",150,0,82,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+2002,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",156,0,110,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+2001,CALIFORNIA,"SHARK, DOGFISH, SPINY","6,628",3,"1,030",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2001,CALIFORNIA,"SHARK, LEOPARD","27,092",12,"22,648",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+2001,CALIFORNIA,"SHARK, MAKO, SHORTFIN","101,717",46,"75,442",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+2001,CALIFORNIA,"SHARK, PACIFIC ANGEL","62,400",28,"28,055",Public,Commercial,Squatina californica,160785,PACFINHIST
+2001,CALIFORNIA,"SHARK, THRESHER","797,105",362,"587,138",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+2001,CALIFORNIA,"SHARK, THRESHER, BIGEYE","5,026",2,"8,429",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+2001,CALIFORNIA,"SHARK, TOPE","97,938",44,"49,565",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+2001,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","16,419",7,"9,151",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+2001,OREGON,"SHARK, BLUE","3,921",2,"1,233",Public,Commercial,Prionace glauca,160424,PACFINHIST
+2001,OREGON,"SHARK, DOGFISH, SPINY","46,779",21,"8,455",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2001,OREGON,"SHARK, TOPE",472,0,279,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+2001,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","74,149",34,"13,806",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+2001,WASHINGTON,"SHARK, DOGFISH, SPINY","1,363,663",619,"224,912",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2001,WASHINGTON,"SHARK, TOPE",375,0,150,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+2001,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",242,0,93,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+2000,CALIFORNIA,"SHARK, BLUE",431,0,307,Public,Commercial,Prionace glauca,160424,PACFINHIST
+2000,CALIFORNIA,"SHARK, DOGFISH, SPINY","31,992",15,"12,143",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2000,CALIFORNIA,"SHARK, LEOPARD","29,110",13,"21,139",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+2000,CALIFORNIA,"SHARK, MAKO, SHORTFIN","176,368",80,"133,350",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+2000,CALIFORNIA,"SHARK, PACIFIC ANGEL","74,856",34,"36,703",Public,Commercial,Squatina californica,160785,PACFINHIST
+2000,CALIFORNIA,"SHARK, THRESHER","560,374",254,"489,218",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+2000,CALIFORNIA,"SHARK, THRESHER, BIGEYE","10,095",5,"4,637",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+2000,CALIFORNIA,"SHARK, TOPE","101,283",46,"50,239",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+2000,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","23,510",11,"12,272",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+2000,OREGON,"SHARK, BLUE",509,0,474,Public,Commercial,Prionace glauca,160424,PACFINHIST
+2000,OREGON,"SHARK, DOGFISH, SPINY","88,614",40,"10,394",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2000,OREGON,"SHARK, THRESHER",888,0,"1,057",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+2000,OREGON,"SHARK, TOPE","1,685",1,"1,310",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+2000,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,543",1,476,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+2000,WASHINGTON,"SHARK, BLUE",133,0,66,Public,Commercial,Prionace glauca,160424,PACFINHIST
+2000,WASHINGTON,"SHARK, DOGFISH, SPINY","1,380,558",626,"238,263",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+2000,WASHINGTON,"SHARK, THRESHER","98,518",45,"101,572",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+2000,WASHINGTON,"SHARK, TOPE","3,230",1,"1,269",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+2000,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",675,0,414,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1999,CALIFORNIA,"SHARK, BLUE",123,0,25,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1999,CALIFORNIA,"SHARK, DOGFISH, SPINY","64,469",29,"60,961",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1999,CALIFORNIA,"SHARK, LEOPARD","31,598",14,"23,466",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1999,CALIFORNIA,"SHARK, MAKO, SHORTFIN","138,227",63,"110,334",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1999,CALIFORNIA,"SHARK, PACIFIC ANGEL","106,822",48,"50,896",Public,Commercial,Squatina californica,160785,PACFINHIST
+1999,CALIFORNIA,"SHARK, THRESHER","581,525",264,"488,860",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1999,CALIFORNIA,"SHARK, THRESHER, BIGEYE","12,052",5,"5,875",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1999,CALIFORNIA,"SHARK, TOPE","162,532",74,"85,521",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1999,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","27,784",13,"14,495",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1999,OREGON,"SHARK, BLUE",144,0,49,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1999,OREGON,"SHARK, DOGFISH, SPINY","114,135",52,"15,219",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1999,OREGON,"SHARK, MAKO, SHORTFIN",545,0,788,Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1999,OREGON,"SHARK, THRESHER","2,472",1,"3,032",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1999,OREGON,"SHARK, TOPE","1,199",1,947,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1999,WASHINGTON,"SHARK, DOGFISH, SPINY","1,110,937",504,"168,183",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1999,WASHINGTON,"SHARK, THRESHER","144,232",65,"144,164",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1999,WASHINGTON,"SHARK, TOPE",464,0,233,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1999,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","13,291",6,"12,998",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1998,CALIFORNIA,"SHARK, BLUE","1,372",1,389,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1998,CALIFORNIA,"SHARK, DOGFISH, SPINY","15,290",7,"6,459",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1998,CALIFORNIA,"SHARK, LEOPARD","32,735",15,"24,203",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1998,CALIFORNIA,"SHARK, MAKO, SHORTFIN","219,491",100,"173,619",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1998,CALIFORNIA,"SHARK, PACIFIC ANGEL","110,708",50,"51,675",Public,Commercial,Squatina californica,160785,PACFINHIST
+1998,CALIFORNIA,"SHARK, THRESHER","784,877",356,"609,086",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1998,CALIFORNIA,"SHARK, THRESHER, BIGEYE","23,967",11,"9,429",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1998,CALIFORNIA,"SHARK, TOPE","115,361",52,"65,727",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1998,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","24,460",11,"15,598",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1998,OREGON,"SHARK, BLUE","4,299",2,"5,520",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1998,OREGON,"SHARK, DOGFISH, SPINY","233,503",106,"30,879",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1998,OREGON,"SHARK, MAKO, SHORTFIN","1,968",1,"2,674",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1998,OREGON,"SHARK, TOPE","2,442",1,"2,058",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1998,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",608,0,485,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1998,WASHINGTON,"SHARK, DOGFISH, SPINY","912,652",414,"128,444",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1998,WASHINGTON,"SHARK, TOPE",813,0,395,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1998,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",588,0,385,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1997,CALIFORNIA,"SHARK, BLUE",307,0,67,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1997,CALIFORNIA,"SHARK, DOGFISH, SPINY","8,354",4,"2,070",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1997,CALIFORNIA,"SHARK, LEOPARD","24,870",11,"18,072",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1997,CALIFORNIA,"SHARK, MAKO, SHORTFIN","290,628",132,"225,704",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1997,CALIFORNIA,"SHARK, PACIFIC ANGEL","67,364",31,"29,444",Public,Commercial,Squatina californica,160785,PACFINHIST
+1997,CALIFORNIA,"SHARK, THRESHER","776,245",352,"642,902",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1997,CALIFORNIA,"SHARK, THRESHER, BIGEYE","69,582",32,"34,769",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1997,CALIFORNIA,"SHARK, TOPE","133,413",61,"79,679",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1997,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","21,060",10,"12,427",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1997,OREGON,"SHARK, BLUE",504,0,205,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1997,OREGON,"SHARK, DOGFISH, SPINY","8,574",4,"1,363",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1997,OREGON,"SHARK, TOPE","3,053",1,"2,515",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1997,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",166,0,146,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1997,WASHINGTON,"SHARK, DOGFISH, SPINY","1,386,682",629,"203,137",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1997,WASHINGTON,"SHARK, TOPE","1,050",0,519,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1997,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",164,0,78,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1996,CALIFORNIA,"SHARK, BLUE",536,0,130,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1996,CALIFORNIA,"SHARK, DOGFISH, SPINY","1,245",1,276,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1996,CALIFORNIA,"SHARK, LEOPARD","16,693",8,"11,239",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1996,CALIFORNIA,"SHARK, MAKO, SHORTFIN","211,469",96,"166,644",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1996,CALIFORNIA,"SHARK, PACIFIC ANGEL","35,712",16,"14,231",Public,Commercial,Squatina californica,160785,PACFINHIST
+1996,CALIFORNIA,"SHARK, THRESHER","698,256",317,"593,278",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1996,CALIFORNIA,"SHARK, THRESHER, BIGEYE","44,910",20,"17,745",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1996,CALIFORNIA,"SHARK, TOPE","137,998",63,"70,891",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1996,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","13,161",6,"5,613",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1996,OREGON,"SHARK, BLUE","1,020",0,417,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1996,OREGON,"SHARK, DOGFISH, SPINY","16,841",8,"2,287",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1996,OREGON,"SHARK, TOPE","5,388",2,"4,627",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1996,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",232,0,197,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1996,WASHINGTON,"SHARK, DOGFISH, SPINY","2,291,621","1,039","302,990",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1996,WASHINGTON,"SHARK, TOPE",260,0,117,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1996,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",532,0,220,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1995,CALIFORNIA,"SHARK, BLUE","10,846",5,"2,603",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1995,CALIFORNIA,"SHARK, DOGFISH, SPINY","2,109",1,"1,411",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1995,CALIFORNIA,"SHARK, LEOPARD","21,732",10,"16,445",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1995,CALIFORNIA,"SHARK, MAKO, SHORTFIN","210,231",95,"165,220",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1995,CALIFORNIA,"SHARK, PACIFIC ANGEL","39,376",18,"12,606",Public,Commercial,Squatina californica,160785,PACFINHIST
+1995,CALIFORNIA,"SHARK, THRESHER","592,648",269,"469,501",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1995,CALIFORNIA,"SHARK, THRESHER, BIGEYE","68,037",31,"24,897",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1995,CALIFORNIA,"SHARK, TOPE","93,944",43,"55,025",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1995,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","34,934",16,"24,210",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1995,OREGON,"SHARK, BLUE",320,0,180,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1995,OREGON,"SHARK, DOGFISH, SPINY","87,887",40,"11,449",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1995,OREGON,"SHARK, THRESHER","1,579",1,"1,572",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1995,OREGON,"SHARK, TOPE","2,203",1,"1,434",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1995,WASHINGTON,"SHARK, DOGFISH, SPINY","2,717,993","1,233","370,000",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1995,WASHINGTON,"SHARK, THRESHER","10,693",5,"15,463",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1995,WASHINGTON,"SHARK, TOPE",438,0,234,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1995,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",526,0,414,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1994,CALIFORNIA,"SHARK, BLUE","26,835",12,"15,972",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1994,CALIFORNIA,"SHARK, DOGFISH, SPINY","1,216",1,260,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1994,CALIFORNIA,"SHARK, LEOPARD","23,621",11,"14,171",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1994,CALIFORNIA,"SHARK, MAKO, SHORTFIN","281,908",128,"246,974",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1994,CALIFORNIA,"SHARK, PACIFIC ANGEL","46,394",21,"14,606",Public,Commercial,Squatina californica,160785,PACFINHIST
+1994,CALIFORNIA,"SHARK, THRESHER","726,782",330,"584,227",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1994,CALIFORNIA,"SHARK, THRESHER, BIGEYE","81,507",37,"33,482",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1994,CALIFORNIA,"SHARK, TOPE","118,022",54,"71,447",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1994,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","21,547",10,"13,960",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1994,OREGON,"SHARK, BLUE",137,0,86,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1994,OREGON,"SHARK, DOGFISH, SPINY","87,899",40,"11,993",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1994,OREGON,"SHARK, TOPE","2,451",1,"1,726",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1994,WASHINGTON,"SHARK, DOGFISH, SPINY","4,997,422","2,267","699,703",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1994,WASHINGTON,"SHARK, TOPE",633,0,302,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1993,CALIFORNIA,"SHARK, BLUE",597,0,461,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1993,CALIFORNIA,"SHARK, DOGFISH, SPINY","6,230",3,"1,589",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1993,CALIFORNIA,"SHARK, LEOPARD","52,253",24,"36,191",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1993,CALIFORNIA,"SHARK, MAKO, SHORTFIN","268,716",122,"221,152",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1993,CALIFORNIA,"SHARK, PACIFIC ANGEL","133,312",60,"43,804",Public,Commercial,Squatina californica,160785,PACFINHIST
+1993,CALIFORNIA,"SHARK, THRESHER","606,258",275,"457,490",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1993,CALIFORNIA,"SHARK, THRESHER, BIGEYE","96,133",44,"28,191",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1993,CALIFORNIA,"SHARK, TOPE","81,752",37,"58,664",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1993,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","36,205",16,"20,863",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1993,OREGON,"SHARK, BLUE",212,0,116,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1993,OREGON,"SHARK, DOGFISH, SPINY","56,690",26,"7,227",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1993,OREGON,"SHARK, THRESHER",647,0,445,Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1993,OREGON,"SHARK, TOPE","4,051",2,"2,247",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1993,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",402,0,776,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1993,WASHINGTON,"SHARK, DOGFISH, SPINY","4,378,877","1,986","559,561",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1993,WASHINGTON,"SHARK, TOPE","1,013",0,533,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1992,CALIFORNIA,"SHARK, BLUE","2,880",1,"1,690",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1992,CALIFORNIA,"SHARK, DOGFISH, SPINY","3,350",2,520,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1992,CALIFORNIA,"SHARK, LEOPARD","42,590",19,"32,145",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1992,CALIFORNIA,"SHARK, MAKO, SHORTFIN","312,814",142,"230,834",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1992,CALIFORNIA,"SHARK, PACIFIC ANGEL","247,164",112,"77,838",Public,Commercial,Squatina californica,160785,PACFINHIST
+1992,CALIFORNIA,"SHARK, THRESHER","643,343",292,"462,985",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1992,CALIFORNIA,"SHARK, THRESHER, BIGEYE","47,437",22,"14,630",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1992,CALIFORNIA,"SHARK, TOPE","96,045",44,"71,686",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1992,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","24,364",11,"12,867",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1992,OREGON,"SHARK, DOGFISH, SPINY","24,751",11,"4,736",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1992,OREGON,"SHARK, THRESHER","1,306",1,"1,068",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1992,OREGON,"SHARK, TOPE","4,442",2,"3,656",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1992,WASHINGTON,"SHARK, DOGFISH, SPINY","4,338,248","1,968","577,918",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1992,WASHINGTON,"SHARK, TOPE",658,0,347,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1992,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","5,888",3,885,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1991,CALIFORNIA,"SHARK, BLUE","1,200",1,824,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1991,CALIFORNIA,"SHARK, LEOPARD","48,123",22,"34,718",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1991,CALIFORNIA,"SHARK, MAKO, SHORTFIN","482,022",219,"415,137",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1991,CALIFORNIA,"SHARK, PACIFIC ANGEL","363,530",165,"119,545",Public,Commercial,Squatina californica,160785,PACFINHIST
+1991,CALIFORNIA,"SHARK, THRESHER","1,286,676",584,"968,600",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1991,CALIFORNIA,"SHARK, THRESHER, BIGEYE","69,550",32,"25,180",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1991,CALIFORNIA,"SHARK, TOPE","105,931",48,"79,823",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1991,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","21,486",10,"12,194",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1991,OREGON,"SHARK, DOGFISH, SPINY","145,405",66,"18,592",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1991,OREGON,"SHARK, TOPE","4,719",2,"3,130",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1991,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",340,0,181,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1991,WASHINGTON,"SHARK, DOGFISH, SPINY","4,721,880","2,142","652,519",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1991,WASHINGTON,"SHARK, TOPE","1,132",1,898,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1991,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","8,771",4,"1,210",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1990,CALIFORNIA,"SHARK, BLUE","43,754",20,"10,248",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1990,CALIFORNIA,"SHARK, DOGFISH, SPINY","6,833",3,"1,144",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1990,CALIFORNIA,"SHARK, LEOPARD","41,281",19,"29,688",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1990,CALIFORNIA,"SHARK, MAKO, SHORTFIN","823,042",373,"739,139",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1990,CALIFORNIA,"SHARK, PACIFIC ANGEL","501,870",228,"164,602",Public,Commercial,Squatina californica,160785,PACFINHIST
+1990,CALIFORNIA,"SHARK, THRESHER","788,415",358,"639,701",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1990,CALIFORNIA,"SHARK, THRESHER, BIGEYE","67,887",31,"34,626",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1990,CALIFORNIA,"SHARK, TOPE","127,404",58,"102,690",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1990,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","35,221",16,"18,063",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1990,OREGON,"SHARK, DOGFISH, SPINY","15,611",7,"2,016",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1990,OREGON,"SHARK, THRESHER",655,0,541,Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1990,OREGON,"SHARK, TOPE","3,709",2,"2,805",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1990,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",210,0,275,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1990,WASHINGTON,"SHARK, DOGFISH, SPINY","2,993,831","1,358","426,637",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1990,WASHINGTON,"SHARK, TOPE","1,376",1,"1,135",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1990,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",300,0,133,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1989,CALIFORNIA,"SHARK, BLUE","13,524",6,"3,466",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1989,CALIFORNIA,"SHARK, DOGFISH, SPINY","3,569",2,"1,151",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1989,CALIFORNIA,"SHARK, LEOPARD","51,310",23,"40,610",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1989,CALIFORNIA,"SHARK, MAKO, SHORTFIN","562,996",255,"552,502",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1989,CALIFORNIA,"SHARK, PACIFIC ANGEL","537,762",244,"166,747",Public,Commercial,Squatina californica,160785,PACFINHIST
+1989,CALIFORNIA,"SHARK, THRESHER","1,105,129",501,"935,914",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1989,CALIFORNIA,"SHARK, THRESHER, BIGEYE","37,559",17,"24,711",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1989,CALIFORNIA,"SHARK, TOPE","167,719",76,"138,796",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1989,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","38,677",18,"22,083",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1989,OREGON,"SHARK, DOGFISH, SPINY",698,0,167,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1989,OREGON,"SHARK, TOPE","3,264",1,"3,133",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1989,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",294,0,146,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1989,WASHINGTON,"SHARK, DOGFISH, SPINY","3,090,296","1,402","410,545",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1989,WASHINGTON,"SHARK, TOPE","1,239",1,648,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1989,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",897,0,531,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1988,CALIFORNIA,"SHARK, BLUE","6,962",3,"2,112",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1988,CALIFORNIA,"SHARK, DOGFISH, SPINY","3,773",2,708,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1988,CALIFORNIA,"SHARK, LEOPARD","41,904",19,"36,571",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1988,CALIFORNIA,"SHARK, MAKO, SHORTFIN","709,179",322,"649,626",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1988,CALIFORNIA,"SHARK, PACIFIC ANGEL","982,696",446,"308,092",Public,Commercial,Squatina californica,160785,PACFINHIST
+1988,CALIFORNIA,"SHARK, THRESHER","912,961",414,"822,031",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1988,CALIFORNIA,"SHARK, THRESHER, BIGEYE","20,455",9,"9,764",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1988,CALIFORNIA,"SHARK, TOPE","140,890",64,"129,256",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1988,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","66,526",30,"44,713",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1988,OREGON,"SHARK, DOGFISH, SPINY","1,110",1,207,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1988,OREGON,"SHARK, THRESHER","177,630",81,"135,202",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1988,OREGON,"SHARK, TOPE","3,029",1,"2,724",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1988,WASHINGTON,"SHARK, BLUE",123,0,49,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1988,WASHINGTON,"SHARK, DOGFISH, SPINY","3,463,350","1,571","460,828",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1988,WASHINGTON,"SHARK, THRESHER","14,105",6,"23,494",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1988,WASHINGTON,"SHARK, TOPE","3,000",1,"2,454",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1988,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","2,367",1,"1,591",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1987,CALIFORNIA,"SHARK, BLUE","3,410",2,"1,435",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1987,CALIFORNIA,"SHARK, DOGFISH, SPINY","53,992",24,"5,246",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1987,CALIFORNIA,"SHARK, LEOPARD","55,976",25,"39,089",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1987,CALIFORNIA,"SHARK, MAKO, SHORTFIN","887,488",403,"715,141",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1987,CALIFORNIA,"SHARK, PACIFIC ANGEL","1,880,374",853,"542,281",Public,Commercial,Squatina californica,160785,PACFINHIST
+1987,CALIFORNIA,"SHARK, THRESHER","896,578",407,"814,782",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1987,CALIFORNIA,"SHARK, THRESHER, BIGEYE","43,018",20,"22,123",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1987,CALIFORNIA,"SHARK, TOPE","202,839",92,"172,836",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1987,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","187,604",85,"144,191",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1987,OREGON,"SHARK, DOGFISH, SPINY",225,0,70,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1987,OREGON,"SHARK, THRESHER","203,328",92,"155,364",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1987,OREGON,"SHARK, TOPE","17,743",8,"12,398",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1987,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","3,645",2,"2,762",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1987,WASHINGTON,"SHARK, BLUE",497,0,419,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1987,WASHINGTON,"SHARK, DOGFISH, SPINY","3,451,405","1,566","448,060",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1987,WASHINGTON,"SHARK, THRESHER","143,174",65,"215,560",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1987,WASHINGTON,"SHARK, TOPE","8,690",4,"6,112",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1987,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","5,981",3,"3,934",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1986,CALIFORNIA,"SHARK, BLUE","3,316",2,"1,202",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1986,CALIFORNIA,"SHARK, DOGFISH, SPINY","9,557",4,"1,265",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1986,CALIFORNIA,"SHARK, LEOPARD","75,493",34,"50,942",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1986,CALIFORNIA,"SHARK, MAKO, SHORTFIN","686,845",312,"428,262",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1986,CALIFORNIA,"SHARK, PACIFIC ANGEL","2,483,172","1,126","608,952",Public,Commercial,Squatina californica,160785,PACFINHIST
+1986,CALIFORNIA,"SHARK, THRESHER","1,031,244",468,"865,338",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1986,CALIFORNIA,"SHARK, THRESHER, BIGEYE","106,662",48,"66,650",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1986,CALIFORNIA,"SHARK, TOPE","216,451",98,"173,142",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1986,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","190,231",86,"116,784",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1986,OREGON,"SHARK, DOGFISH, SPINY",363,0,249,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1986,OREGON,"SHARK, THRESHER","935,100",424,"612,658",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1986,OREGON,"SHARK, TOPE","7,161",3,"5,139",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1986,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,333",1,927,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1986,WASHINGTON,"SHARK, BLUE",238,0,120,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1986,WASHINGTON,"SHARK, DOGFISH, SPINY","1,911,711",867,"177,493",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1986,WASHINGTON,"SHARK, THRESHER","181,282",82,"212,489",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1986,WASHINGTON,"SHARK, TOPE","3,255",1,"1,767",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1986,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","5,161",2,"2,864",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1985,CALIFORNIA,"SHARK, BLUE","2,356",1,"2,007",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1985,CALIFORNIA,"SHARK, DOGFISH, SPINY","1,002",0,392,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1985,CALIFORNIA,"SHARK, LEOPARD","72,006",33,"47,422",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1985,CALIFORNIA,"SHARK, MAKO, SHORTFIN","327,748",149,"192,132",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1985,CALIFORNIA,"SHARK, PACIFIC ANGEL","2,496,974","1,133","576,344",Public,Commercial,Squatina californica,160785,PACFINHIST
+1985,CALIFORNIA,"SHARK, THRESHER","2,620,449","1,189","1,815,761",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1985,CALIFORNIA,"SHARK, THRESHER, BIGEYE","209,026",95,"96,434",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1985,CALIFORNIA,"SHARK, TOPE","281,267",128,"212,990",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1985,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","214,935",97,"139,986",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1985,OREGON,"SHARK, DOGFISH, SPINY",284,0,21,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1985,OREGON,"SHARK, THRESHER","4,184",2,"2,092",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1985,OREGON,"SHARK, TOPE","9,087",4,"4,644",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1985,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,616",1,792,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1985,WASHINGTON,"SHARK, BLUE",201,0,125,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1985,WASHINGTON,"SHARK, DOGFISH, SPINY","2,814,385","1,277","230,333",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1985,WASHINGTON,"SHARK, TOPE","4,342",2,"2,066",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1985,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","7,765",4,"6,192",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1984,CALIFORNIA,"SHARK, BLUE","3,950",2,"2,464",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1984,CALIFORNIA,"SHARK, DOGFISH, SPINY","17,181",8,"14,200",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1984,CALIFORNIA,"SHARK, LEOPARD","71,369",32,"38,620",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1984,CALIFORNIA,"SHARK, MAKO, SHORTFIN","352,101",160,"189,794",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1984,CALIFORNIA,"SHARK, PACIFIC ANGEL","1,266,546",575,"232,435",Public,Commercial,Squatina californica,160785,PACFINHIST
+1984,CALIFORNIA,"SHARK, THRESHER","2,840,143","1,288","1,649,902",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1984,CALIFORNIA,"SHARK, THRESHER, BIGEYE","126,491",57,"47,118",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1984,CALIFORNIA,"SHARK, TOPE","286,373",130,"213,424",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1984,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","224,992",102,"182,295",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1984,OREGON,"SHARK, DOGFISH, SPINY",873,0,434,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1984,OREGON,"SHARK, TOPE","7,784",4,"4,468",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1984,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **",696,0,521,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1984,WASHINGTON,"SHARK, DOGFISH, SPINY","4,052,456","1,838","370,300",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1984,WASHINGTON,"SHARK, TOPE","4,105",2,"2,068",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1984,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","9,847",4,"7,763",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1983,CALIFORNIA,"SHARK, BLUE","15,526",7,"4,520",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1983,CALIFORNIA,"SHARK, DOGFISH, SPINY","54,704",25,"8,028",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1983,CALIFORNIA,"SHARK, LEOPARD","106,299",48,"42,007",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1983,CALIFORNIA,"SHARK, MAKO, SHORTFIN","478,878",217,"229,826",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1983,CALIFORNIA,"SHARK, PACIFIC ANGEL","720,646",327,"106,073",Public,Commercial,Squatina californica,160785,PACFINHIST
+1983,CALIFORNIA,"SHARK, THRESHER","2,954,118","1,340","1,482,665",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1983,CALIFORNIA,"SHARK, THRESHER, BIGEYE","211,752",96,"91,455",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1983,CALIFORNIA,"SHARK, TOPE","195,646",89,"120,513",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1983,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","274,187",124,"212,579",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1983,OREGON,"SHARK, DOGFISH, SPINY","2,579",1,228,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1983,OREGON,"SHARK, TOPE","13,905",6,"6,558",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1983,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","7,100",3,"3,594",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1983,WASHINGTON,"SHARK, BLUE",212,0,128,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1983,WASHINGTON,"SHARK, DOGFISH, SPINY","3,915,914","1,776","365,247",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1983,WASHINGTON,"SHARK, TOPE","1,971",1,"1,102",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1983,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","26,344",12,"22,871",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1982,CALIFORNIA,"SHARK, BLUE","58,732",27,"18,764",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1982,CALIFORNIA,"SHARK, DOGFISH, SPINY","5,745",3,"1,041",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1982,CALIFORNIA,"SHARK, LEOPARD","74,574",34,"36,926",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1982,CALIFORNIA,"SHARK, MAKO, SHORTFIN","774,068",351,"339,207",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1982,CALIFORNIA,"SHARK, PACIFIC ANGEL","637,920",289,"106,698",Public,Commercial,Squatina californica,160785,PACFINHIST
+1982,CALIFORNIA,"SHARK, THRESHER","4,075,194","1,848","1,980,598",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1982,CALIFORNIA,"SHARK, THRESHER, BIGEYE","61,658",28,"15,168",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1982,CALIFORNIA,"SHARK, TOPE","276,377",125,"159,868",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1982,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","323,651",147,"204,487",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1982,OREGON,"SHARK, DOGFISH, SPINY","2,090",1,202,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1982,OREGON,"SHARK, TOPE","11,081",5,"4,312",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1982,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","8,213",4,"4,788",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1982,WASHINGTON,"SHARK, BLUE",125,0,63,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1982,WASHINGTON,"SHARK, DOGFISH, SPINY","4,579,303","2,077","443,396",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1982,WASHINGTON,"SHARK, TOPE",475,0,189,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1982,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,309",1,660,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1981,CALIFORNIA,"SHARK, BLUE","203,071",92,"58,970",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1981,CALIFORNIA,"SHARK, DOGFISH, SPINY","17,808",8,"4,828",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1981,CALIFORNIA,"SHARK, LEOPARD","54,362",25,"22,404",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1981,CALIFORNIA,"SHARK, MAKO, SHORTFIN","402,151",182,"162,347",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1981,CALIFORNIA,"SHARK, PACIFIC ANGEL","537,280",244,"89,587",Public,Commercial,Squatina californica,160785,PACFINHIST
+1981,CALIFORNIA,"SHARK, THRESHER","3,354,140","1,521","1,475,637",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1981,CALIFORNIA,"SHARK, TOPE","277,617",126,"146,387",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1981,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","641,769",291,"427,238",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1981,OREGON,"SHARK, DOGFISH, SPINY","10,587",5,738,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1981,OREGON,"SHARK, TOPE","3,585",2,"1,215",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1981,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,293",1,656,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1981,WASHINGTON,"SHARK, BLUE",319,0,96,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1981,WASHINGTON,"SHARK, DOGFISH, SPINY","4,539,373","2,059","402,315",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1981,WASHINGTON,"SHARK, TOPE",338,0,109,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1980,CALIFORNIA,"SHARK, BLUE","192,129",87,"50,797",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1980,CALIFORNIA,"SHARK, DOGFISH, SPINY","15,279",7,"4,542",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1980,CALIFORNIA,"SHARK, LEOPARD","39,954",18,"15,396",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1980,CALIFORNIA,"SHARK, MAKO, SHORTFIN","155,318",70,"99,489",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1980,CALIFORNIA,"SHARK, PACIFIC ANGEL","109,928",50,"29,343",Public,Commercial,Squatina californica,160785,PACFINHIST
+1980,CALIFORNIA,"SHARK, THRESHER","1,805,956",819,"1,235,576",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1980,CALIFORNIA,"SHARK, THRESHER, BIGEYE","10,803",5,"2,065",Public,Commercial,Alopias superciliosus,159921,PACFINHIST
+1980,CALIFORNIA,"SHARK, TOPE","192,083",87,"80,910",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1980,CALIFORNIA,"SHARK, WHITE","1,660",1,839,Public,Commercial,Carcharodon carcharias,159903,PACFINHIST
+1980,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","1,174,304",533,"721,209",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1980,OREGON,"SHARK, TOPE","1,791",1,737,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1980,OREGON,"SHARKS, DOGFISH **","56,305",26,"3,805",Public,Commercial,Squalidae,160604,PACFINHIST
+1980,WASHINGTON,"SHARK, BLUE",248,0,62,Public,Commercial,Prionace glauca,160424,PACFINHIST
+1980,WASHINGTON,"SHARK, DOGFISH, SPINY","7,045,647","3,196","663,773",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1980,WASHINGTON,"SHARK, TOPE",156,0,36,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1980,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",26,0,10,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1979,CALIFORNIA,"SHARK, BLUE","86,703",39,"22,583",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1979,CALIFORNIA,"SHARK, DOGFISH, SPINY","125,488",57,"9,045",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1979,CALIFORNIA,"SHARK, LEOPARD","38,904",18,"14,686",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1979,CALIFORNIA,"SHARK, MAKO, SHORTFIN","35,333",16,"19,542",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1979,CALIFORNIA,"SHARK, PACIFIC ANGEL","128,267",58,"30,921",Public,Commercial,Squatina californica,160785,PACFINHIST
+1979,CALIFORNIA,"SHARK, THRESHER","735,710",334,"427,445",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1979,CALIFORNIA,"SHARK, TOPE","276,118",125,"122,821",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1979,CALIFORNIA,"SHARK, WHITE","2,269",1,582,Public,Commercial,Carcharodon carcharias,159903,PACFINHIST
+1979,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","906,133",411,"429,499",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1979,CALIFORNIA,"SHARKS, HAMMERHEAD **",302,0,122,Public,Commercial,Sphyrnidae,160497,PACFINHIST
+1979,OREGON,"SHARK, TOPE","3,049",1,942,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1979,OREGON,"SHARKS, DOGFISH **","85,446",39,"5,882",Public,Commercial,Squalidae,160604,PACFINHIST
+1979,WASHINGTON,"SHARK, DOGFISH, SPINY","9,435,250","4,280","925,187",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1979,WASHINGTON,"SHARK, TOPE","2,668",1,357,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1979,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",906,0,99,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1978,CALIFORNIA,"SHARK, BLUE","36,000",16,"6,972",Public,Commercial,Prionace glauca,160424,PACFINHIST
+1978,CALIFORNIA,"SHARK, LEOPARD","34,900",16,"6,462",Public,Commercial,Triakis semifasciata,160448,PACFINHIST
+1978,CALIFORNIA,"SHARK, MAKO, SHORTFIN","27,400",12,"7,730",Public,Commercial,Isurus oxyrinchus,159924,PACFINHIST
+1978,CALIFORNIA,"SHARK, THRESHER","302,200",137,"120,110",Public,Commercial,Alopias vulpinus,159916,PACFINHIST
+1978,CALIFORNIA,"SHARK, TOPE","175,900",80,"55,089",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1978,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","721,800",327,"233,454",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1978,CALIFORNIA,"SHARKS, DOGFISH **","447,400",203,"29,928",Public,Commercial,Squalidae,160604,PACFINHIST
+1978,OREGON,"SHARK, TOPE",856,0,329,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1978,OREGON,"SHARKS, DOGFISH **","160,326",73,"9,101",Public,Commercial,Squalidae,160604,PACFINHIST
+1978,WASHINGTON,"SHARK, DOGFISH, SPINY","6,076,692","2,756","495,786",Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1978,WASHINGTON,"SHARK, TOPE",23,0,9,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1978,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",100,0,17,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1977,CALIFORNIA,"SHARK, DOGFISH, SPINY",600,0,120,Public,Commercial,Squalus acanthias,160617,PACFINHIST
+1977,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","999,700",453,"269,814",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1977,CALIFORNIA,"SHARKS, DOGFISH **","383,600",174,"24,385",Public,Commercial,Squalidae,160604,PACFINHIST
+1977,OREGON,"SHARK, TOPE","1,600",1,497,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1977,OREGON,"SHARKS, DOGFISH **","56,100",25,"3,865",Public,Commercial,Squalidae,160604,PACFINHIST
+1977,WASHINGTON,"SHARK, TOPE",200,0,10,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1977,WASHINGTON,"SHARKS, DOGFISH **","5,428,800","2,462","360,809",Public,Commercial,Squalidae,160604,PACFINHIST
+1976,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","871,294",395,"205,024",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1976,OREGON,"SHARK, TOPE","3,000",1,747,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1976,OREGON,"SHARKS, DOGFISH **","13,300",6,266,Public,Commercial,Squalidae,160604,PACFINHIST
+1976,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",400,0,3,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1976,WASHINGTON,"SHARKS, DOGFISH **","5,809,300","2,635","296,387",Public,Commercial,Squalidae,160604,PACFINHIST
+1975,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","534,100",242,"118,760",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1975,OREGON,"SHARK, TOPE",900,0,188,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1975,OREGON,"SHARKS, DOGFISH **","20,900",9,835,Public,Commercial,Squalidae,160604,PACFINHIST
+1975,WASHINGTON,"SHARKS, DOGFISH **","1,120,700",508,"38,507",Public,Commercial,Squalidae,160604,PACFINHIST
+1974,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","497,400",226,"105,257",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1974,OREGON,"SHARK, TOPE","1,000",0,104,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1974,OREGON,"SHARKS, DOGFISH **","24,900",11,"2,493",Public,Commercial,Squalidae,160604,PACFINHIST
+1974,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",800,0,28,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1974,WASHINGTON,"SHARKS, DOGFISH **","1,650,700",749,"48,330",Public,Commercial,Squalidae,160604,PACFINHIST
+1973,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","422,600",192,"82,819",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1973,OREGON,"SHARK, TOPE",300,0,15,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1973,OREGON,"SHARKS, DOGFISH **",900,0,33,Public,Commercial,Squalidae,160604,PACFINHIST
+1973,WASHINGTON,"SHARKS, DOGFISH **","13,300",6,731,Public,Commercial,Squalidae,160604,PACFINHIST
+1972,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","400,800",182,"56,775",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1972,OREGON,"SHARK, TOPE","3,800",2,103,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1972,OREGON,"SHARKS, DOGFISH **",500,0,13,Public,Commercial,Squalidae,160604,PACFINHIST
+1972,WASHINGTON,"SHARKS, DOGFISH **","42,800",19,"1,183",Public,Commercial,Squalidae,160604,PACFINHIST
+1971,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","421,400",191,"63,643",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1971,OREGON,"SHARKS, DOGFISH **","4,100",2,82,Public,Commercial,Squalidae,160604,PACFINHIST
+1971,WASHINGTON,"SHARK, TOPE",300,0,13,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1971,WASHINGTON,"SHARKS, DOGFISH **","121,900",55,"7,315",Public,Commercial,Squalidae,160604,PACFINHIST
+1970,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","420,300",191,"53,320",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1970,OREGON,"SHARKS, DOGFISH **","17,300",8,216,Public,Commercial,Squalidae,160604,PACFINHIST
+1970,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","17,000",8,100,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1970,WASHINGTON,"SHARKS, DOGFISH **","478,500",217,"2,855",Public,Commercial,Squalidae,160604,PACFINHIST
+1969,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","478,200",217,"52,188",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1969,OREGON,"SHARKS, DOGFISH **","54,700",25,820,Public,Commercial,Squalidae,160604,PACFINHIST
+1969,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","13,100",6,65,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1969,WASHINGTON,"SHARKS, DOGFISH **","600,200",272,"3,570",Public,Commercial,Squalidae,160604,PACFINHIST
+1968,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","437,100",198,"42,010",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1968,OREGON,"SHARKS, DOGFISH **","36,500",17,548,Public,Commercial,Squalidae,160604,PACFINHIST
+1968,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","11,600",5,63,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1968,WASHINGTON,"SHARKS, DOGFISH **","685,600",311,"3,764",Public,Commercial,Squalidae,160604,PACFINHIST
+1967,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","596,900",271,"57,015",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1967,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **",500,0,3,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1967,WASHINGTON,"SHARKS, DOGFISH **","1,253,600",569,"8,146",Public,Commercial,Squalidae,160604,PACFINHIST
+1966,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","653,800",297,"66,735",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1966,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","15,800",7,136,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1966,WASHINGTON,"SHARKS, DOGFISH **","1,671,900",758,"12,788",Public,Commercial,Squalidae,160604,PACFINHIST
+1965,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","648,300",294,"66,657",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1965,OREGON,"SHARK, TOPE","1,000",0,10,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1965,OREGON,"SHARKS, DOGFISH **","8,200",4,82,Public,Commercial,Squalidae,160604,PACFINHIST
+1965,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","2,100",1,12,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1965,WASHINGTON,"SHARKS, DOGFISH **","2,074,700",941,"13,589",Public,Commercial,Squalidae,160604,PACFINHIST
+1964,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","646,500",293,"62,588",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1964,OREGON,"SHARK, TOPE","1,000",0,24,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1964,WASHINGTON,"SHARK, TOPE","1,200",1,44,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1964,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,800",1,9,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1964,WASHINGTON,"SHARKS, DOGFISH **","1,837,000",833,"9,185",Public,Commercial,Squalidae,160604,PACFINHIST
+1963,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","665,400",302,"62,256",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1963,OREGON,"SHARK, TOPE","2,000",1,23,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1963,WASHINGTON,"SHARK, TOPE","1,900",1,62,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1963,WASHINGTON,"SHARKS, DOGFISH **","867,100",393,"4,335",Public,Commercial,Squalidae,160604,PACFINHIST
+1962,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","753,200",342,"69,465",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1962,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","2,200",1,34,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1962,OREGON,"SHARKS, DOGFISH **","9,800",4,100,Public,Commercial,Squalidae,160604,PACFINHIST
+1962,WASHINGTON,"SHARK, TOPE",400,0,21,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1962,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","6,300",3,32,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1962,WASHINGTON,"SHARKS, DOGFISH **","763,300",346,"3,817",Public,Commercial,Squalidae,160604,PACFINHIST
+1961,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","623,900",283,"59,565",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1961,OREGON,"SHARK, TOPE",200,0,2,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1961,OREGON,"SHARKS, DOGFISH **","50,300",23,377,Public,Commercial,Squalidae,160604,PACFINHIST
+1961,WASHINGTON,"SHARK, TOPE","1,300",1,88,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1961,WASHINGTON,"SHARKS, DOGFISH **","790,700",359,"3,953",Public,Commercial,Squalidae,160604,PACFINHIST
+1960,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","694,200",315,"64,702",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1960,OREGON,"SHARK, TOPE","2,900",1,121,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1960,OREGON,"SHARKS, DOGFISH **","47,600",22,595,Public,Commercial,Squalidae,160604,PACFINHIST
+1960,WASHINGTON,"SHARK, TOPE","1,900",1,110,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1960,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","2,200",1,11,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1960,WASHINGTON,"SHARKS, DOGFISH **","1,378,400",625,"6,931",Public,Commercial,Squalidae,160604,PACFINHIST
+1959,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","602,200",273,"50,466",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1959,OREGON,"SHARKS, DOGFISH **","63,600",29,794,Public,Commercial,Squalidae,160604,PACFINHIST
+1959,WASHINGTON,"SHARK, TOPE","1,900",1,115,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1959,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","4,800",2,49,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1959,WASHINGTON,"SHARKS, DOGFISH **","3,091,900","1,402","28,189",Public,Commercial,Squalidae,160604,PACFINHIST
+1958,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","491,600",223,"39,244",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1958,OREGON,"SHARKS, DOGFISH **","64,800",29,810,Public,Commercial,Squalidae,160604,PACFINHIST
+1958,WASHINGTON,"SHARK, TOPE","7,100",3,147,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1958,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","3,400",2,20,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1958,WASHINGTON,"SHARKS, DOGFISH **","4,233,100","1,920","26,675",Public,Commercial,Squalidae,160604,PACFINHIST
+1957,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","727,900",330,"53,286",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1957,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","13,800",6,103,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1957,OREGON,"SHARKS, DOGFISH **","23,900",11,179,Public,Commercial,Squalidae,160604,PACFINHIST
+1957,WASHINGTON,"SHARK, TOPE","1,300",1,108,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1957,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","5,100",2,38,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1957,WASHINGTON,"SHARKS, DOGFISH **","1,860,900",844,"33,390",Public,Commercial,Squalidae,160604,PACFINHIST
+1956,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","1,085,200",492,"74,010",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1956,OREGON,"SHARKS, DOGFISH **","57,300",26,450,Public,Commercial,Squalidae,160604,PACFINHIST
+1956,WASHINGTON,"SHARK, TOPE",500,0,28,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1956,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","2,600",1,18,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1956,WASHINGTON,"SHARKS, DOGFISH **","1,526,400",692,"12,808",Public,Commercial,Squalidae,160604,PACFINHIST
+1955,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","575,900",261,"48,075",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1955,WASHINGTON,"SHARK, TOPE","10,300",5,571,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1955,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","1,200",1,6,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1955,WASHINGTON,"SHARKS, DOGFISH **","1,935,300",878,"14,029",Public,Commercial,Squalidae,160604,PACFINHIST
+1954,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","770,300",349,"70,210",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1954,OREGON,"SHARK, TOPE",800,0,93,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1954,OREGON,"SHARKS, DOGFISH **","38,700",18,534,Public,Commercial,Squalidae,160604,PACFINHIST
+1954,WASHINGTON,"SHARK, TOPE","36,800",17,"5,958",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1954,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","25,500",12,156,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1954,WASHINGTON,"SHARKS, DOGFISH **","2,012,000",913,"19,989",Public,Commercial,Squalidae,160604,PACFINHIST
+1953,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","449,700",204,"56,130",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1953,OREGON,"SHARK, TOPE","1,300",1,152,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1953,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","4,800",2,120,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1953,OREGON,"SHARKS, DOGFISH **","36,700",17,441,Public,Commercial,Squalidae,160604,PACFINHIST
+1953,WASHINGTON,"SHARK, TOPE","15,900",7,"2,478",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1953,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","9,300",4,293,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1953,WASHINGTON,"SHARKS, DOGFISH **","2,404,500","1,091","19,900",Public,Commercial,Squalidae,160604,PACFINHIST
+1952,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","305,000",138,"33,148",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1952,CALIFORNIA,"SHARKS, DOGFISH **","317,700",144,"19,628",Public,Commercial,Squalidae,160604,PACFINHIST
+1952,OREGON,"SHARK, TOPE","3,300",1,594,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1952,OREGON,"SHARKS, DOGFISH **","46,700",21,"1,458",Public,Commercial,Squalidae,160604,PACFINHIST
+1952,WASHINGTON,"SHARK, TOPE",700,0,57,Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1952,WASHINGTON,"SHARKS, CHONDRICHTHYES (CLASS) **","14,100",6,"2,538",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1952,WASHINGTON,"SHARKS, DOGFISH **","3,064,900","1,390","48,871",Public,Commercial,Squalidae,160604,PACFINHIST
+1951,CALIFORNIA,"SHARKS, CHONDRICHTHYES (CLASS) **","842,300",382,"70,317",Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1951,OREGON,"SHARK, TOPE","7,500",3,"2,041",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1951,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","5,600",3,85,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1951,OREGON,"SHARKS, DOGFISH **","152,300",69,"8,262",Public,Commercial,Squalidae,160604,PACFINHIST
+1951,WASHINGTON,"SHARK, TOPE","109,400",50,"21,648",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1951,WASHINGTON,"SHARKS, DOGFISH **","2,452,200","1,112","59,693",Public,Commercial,Squalidae,160604,PACFINHIST
+1950,CALIFORNIA,"SHARKS, DOGFISH **","717,200",325,"56,050",Public,Commercial,Squalidae,160604,PACFINHIST
+1950,OREGON,"SHARK, TOPE","164,800",75,"54,400",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1950,OREGON,"SHARKS, CHONDRICHTHYES (CLASS) **","47,400",22,200,Public,Commercial,Chondrichthyes,159785,PACFINHIST
+1950,OREGON,"SHARKS, DOGFISH **","703,100",319,"14,343",Public,Commercial,Squalidae,160604,PACFINHIST
+1950,WASHINGTON,"SHARK, TOPE","125,600",57,"37,680",Public,Commercial,Galeorhinus galeus,160181,PACFINHIST
+1950,WASHINGTON,"SHARKS, DOGFISH **","1,928,300",875,"33,444",Public,Commercial,Squalidae,160604,PACFINHIST
